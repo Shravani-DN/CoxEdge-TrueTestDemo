@@ -1,0 +1,103 @@
+Flow ID,Description,Test Steps,Flow Priority
+8,Verify successful navigation to Manage Workloads page in Edge Compute V2 Comp environment after clicking on multiple obj,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
+step 5: At Page service manage-workloads edge-compute-v2 comp click on button object
+step 6: Navigate to Page service manage-workloads edge-compute-v2 comp
+step 7: At Page service manage-workloads edge-compute-v2 comp click on button object
+step 8: Navigate to Page service manage-workloads edge-compute-v2 comp
+step 9: At Page service manage-workloads edge-compute-v2 comp click on button object
+step 10: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",High
+7,Verify successful navigation to Manage Workloads page in Edge Compute V2 Comp environment after clicking on a div object,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
+step 5: Navigate to Page service manage-workloads edge-compute-v2 comp
+step 6: At Page service manage-workloads edge-compute-v2 comp click on div object
+step 7: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Medium
+14,Verify successful navigation to Add Snapshot page in Compute Cloud Edge Compute V2 Te environment after clicking on mult,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
+step 5: At Page service manage-workloads edge-compute-v2 comp click on button object --> navigate to Page add-snapshot compute-cloud edge-compute-v2 te
+step 6: At Page add-snapshot compute-cloud edge-compute-v2 te click on button object
+step 7: Add visual checkpoint at Page add-snapshot compute-cloud edge-compute-v2 te",Medium
+10,Verify successful navigation to Manage Workloads page in Edge Compute V2 Comp environment after clicking on multiple obj,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on button object
+step 5: At Page service manage-workloads edge-compute-v2 comp click on li object
+step 6: Navigate to Page service manage-workloads edge-compute-v2 comp
+step 7: At Page service manage-workloads edge-compute-v2 comp click on button object
+step 8: At Page service manage-workloads edge-compute-v2 comp click on span object
+step 9: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Medium
+16,Verify successful navigation to Add Environment page in Edge Compute Stackpath environment after clicking on multiple ob,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on button object --> navigate to Page home
+step 5: At Page home click on button object --> navigate to Page service edge-computed49e70f-e4f8-43e3-b730-92
+step 6: At Page service edge-computed49e70f-e4f8-43e3-b730-92 click on div object --> navigate to Page environment add-environment edge-compute stac
+step 7: Add visual checkpoint at Page environment add-environment edge-compute stac",Medium
+5,Verify successful navigation to Activity page after clicking on an object,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on button object --> navigate to Page home
+step 5: At Page home click on button object --> navigate to Page activity
+step 6: Add visual checkpoint at Page activity",Medium
+6,Verify successful navigation to Home page after clicking on an object,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on button object --> navigate to Page home
+step 5: At Page home click on button object
+step 6: Add visual checkpoint at Page home",Medium
+11,Verify successful navigation to Manage Workloads page in Edge Compute V2 Comp environment after clicking on multiple p o,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on p object
+step 5: At Page service manage-workloads edge-compute-v2 comp click on div object
+step 6: At Page service manage-workloads edge-compute-v2 comp click on p object
+step 7: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Medium
+9,Verify successful navigation to Manage Workloads page in Edge Compute V2 Comp environment after clicking on multiple div,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
+step 5: At Page service manage-workloads edge-compute-v2 comp click on div object
+step 6: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Medium
+13,Verify successful navigation to Manage Workloads page in Edge Compute V2 Comp environment after clicking on multiple p b,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on p object
+step 5: At Page service manage-workloads edge-compute-v2 comp click on button object
+step 6: At Page service manage-workloads edge-compute-v2 comp click on li object
+step 7: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Medium
+15,Verify successful navigation to Add Workloads page in Compute Cloud Edge Compute V2 T environment after clicking on mult,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on button object --> navigate to Page add-workloads compute-cloud edge-compute-v2 t
+step 5: At Page add-workloads compute-cloud edge-compute-v2 t click on button object
+step 6: At Page add-workloads compute-cloud edge-compute-v2 t click on button object
+step 7: Add visual checkpoint at Page add-workloads compute-cloud edge-compute-v2 t",Low
+12,Verify successful navigation to Workload Detail page in Edge Compute V2 Compu environment after clicking on an object,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service workload-detail edge-compute-v2 compu
+step 5: At Page service workload-detail edge-compute-v2 compu click on button object
+step 6: Add visual checkpoint at Page service workload-detail edge-compute-v2 compu",Low
+3,Verify successful navigation to Workload Detail page after clicking on an object,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
+step 4: At Page service manage-workloads edge-compute-v2 comp click on button object --> navigate to Page service workload-detail edge-compute-v2 compu
+step 5: Add visual checkpoint at Page service workload-detail edge-compute-v2 compu",Low
+1,Verify successful login and navigation to Home page,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: Navigate to Page home --> navigate to Page services baremetal-services server-type-test
+step 4: Add visual checkpoint at Page services baremetal-services server-type-test",Low
+2,Verify successful login and navigation to Baremetal Services Server Type Test page,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: Navigate to Page home --> navigate to Page environment edge-compute stackpath-cox-uat ma
+step 4: Add visual checkpoint at Page environment edge-compute stackpath-cox-uat ma",Trivial
+4,Verify successful navigation to Manage Workloads page in Edge Compute Stackpath Cox Uat Ma environment,"step 1: Navigate to Page home --> navigate to Page login
+step 2: Login at Page login --> navigate to Page home
+step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute stackpa
+step 4: Add visual checkpoint at Page service manage-workloads edge-compute stackpa",Trivial

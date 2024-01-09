@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GlobalVariableEntities>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'thirukumaran@codecraft.co.in'</initValue>
+        <name>username</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'P@ssword1'</initValue>
+        <name>password</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'https://cox-ui.uat.cloudmc.io'</initValue>
+        <name>application_domain</name>
+    </GlobalVariableEntity>
+    <defaultProfile>True</defaultProfile>
+    <description></description>
+    <name>test environment</name>
+    <tag></tag>
+</GlobalVariableEntities>
