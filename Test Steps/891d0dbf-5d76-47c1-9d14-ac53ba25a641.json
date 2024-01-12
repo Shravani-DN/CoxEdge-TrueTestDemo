@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home --> navigate to Page login",
+        "step 2: Login at Page login --> navigate to Page home",
+        "step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp",
+        "step 4: At Page service manage-workloads edge-compute-v2 comp click on p object",
+        "step 5: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service storage-detail edge-compute-v2 comput",
+        "step 6: Navigate to Page service storage-detail edge-compute-v2 comput --> navigate to Page service manage-workloads edge-compute-v2 comp",
+        "step 7: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service storage-detail edge-compute-v2 comput",
+        "step 8: At Page service storage-detail edge-compute-v2 comput click on button object",
+        "step 9: Navigate to Page service storage-detail edge-compute-v2 comput --> navigate to Page service manage-workloads edge-compute-v2 comp",
+        "step 10: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service storage-detail edge-compute-v2 comput",
+        "step 11: At Page service storage-detail edge-compute-v2 comput click on button object",
+        "step 12: Add visual checkpoint at Page service storage-detail edge-compute-v2 comput"
+    ]
+}

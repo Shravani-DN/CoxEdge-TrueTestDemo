@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home --> navigate to Page login",
+        "step 2: Login at Page login --> navigate to Page home",
+        "step 3: Navigate to Page home --> navigate to Page profile sshKeys",
+        "step 4: At Page profile sshKeys click on button object",
+        "step 5: At Page profile sshKeys click on li object",
+        "step 6: Add visual checkpoint at Page profile sshKeys"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home --> navigate to Page login",
+        "step 2: Login at Page login --> navigate to Page home",
+        "step 3: At Page home click on button object --> navigate to Page service manage-dns stackpath-cox-uat ser",
+        "step 4: Add visual checkpoint at Page service manage-dns stackpath-cox-uat ser"
+    ]
+}

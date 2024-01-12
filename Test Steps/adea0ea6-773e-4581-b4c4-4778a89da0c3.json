@@ -1,0 +1,25 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home --> navigate to Page login",
+        "step 2: Login at Page login --> navigate to Page home",
+        "step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp",
+        "step 4: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service workload-detail edge-compute-v2 compu",
+        "step 5: At Page service workload-detail edge-compute-v2 compu click on div object",
+        "step 6: Navigate to Page service workload-detail edge-compute-v2 compu",
+        "step 7: At Page service workload-detail edge-compute-v2 compu click on div rc tabs 1 tab settings",
+        "step 8: Navigate to Page service workload-detail edge-compute-v2 compu",
+        "step 9: At Page service workload-detail edge-compute-v2 compu click on span test1",
+        "step 10: At Page service workload-detail edge-compute-v2 compu click on div object",
+        "step 11: At Page service workload-detail edge-compute-v2 compu click on button object",
+        "step 12: Navigate to Page service workload-detail edge-compute-v2 compu",
+        "step 13: At Page service workload-detail edge-compute-v2 compu click on button object",
+        "step 14: Navigate to Page service workload-detail edge-compute-v2 compu",
+        "step 15: At Page service workload-detail edge-compute-v2 compu click on div object",
+        "step 16: At Page service workload-detail edge-compute-v2 compu click on div rc tabs 1 tab overview",
+        "step 17: Navigate to Page service workload-detail edge-compute-v2 compu",
+        "step 18: At Page service workload-detail edge-compute-v2 compu click on div object",
+        "step 19: At Page service workload-detail edge-compute-v2 compu click on div object",
+        "step 20: At Page service workload-detail edge-compute-v2 compu click on div object",
+        "step 21: Add visual checkpoint at Page service workload-detail edge-compute-v2 compu"
+    ]
+}

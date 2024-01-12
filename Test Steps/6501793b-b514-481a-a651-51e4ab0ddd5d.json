@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home --> navigate to Page login",
+        "step 2: Login at Page login --> navigate to Page home",
+        "step 3: At Page home click on button object",
+        "step 4: At Page home click on span object --> navigate to Page profile accountInformation",
+        "step 5: At Page profile accountInformation click on button object --> navigate to Page home",
+        "step 6: At Page home click on button object",
+        "step 7: Navigate to Page home",
+        "step 8: At Page home click on button object",
+        "step 9: Add visual checkpoint at Page home"
+    ]
+}

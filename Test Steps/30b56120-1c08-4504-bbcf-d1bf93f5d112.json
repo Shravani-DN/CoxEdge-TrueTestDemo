@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home --> navigate to Page login",
+        "step 2: Login at Page login --> navigate to Page home",
+        "step 3: Navigate to Page home --> navigate to Page administration users a392d095-70ff-477f-8244-",
+        "step 4: At Page administration users a392d095-70ff-477f-8244- click on p object",
+        "step 5: At Page administration users a392d095-70ff-477f-8244- click on td object",
+        "step 6: At Page administration users a392d095-70ff-477f-8244- click on input rc select 1",
+        "step 7: At Page administration users a392d095-70ff-477f-8244- click on div object",
+        "step 8: Add visual checkpoint at Page administration users a392d095-70ff-477f-8244-"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home --> navigate to Page login",
+        "step 2: Login at Page login --> navigate to Page home",
+        "step 3: At Page home click on button object --> navigate to Page services baremetal-services",
+        "step 4: At Page services baremetal-services click on td object --> navigate to Page services baremetal-services multipleser serve",
+        "step 5: At Page services baremetal-services multipleser serve click on div object --> navigate to Page services baremetal-services multipleser custo",
+        "step 6: At Page services baremetal-services multipleser custo click on div object --> navigate to Page services baremetal-services multipleser ssh l",
+        "step 7: At Page services baremetal-services multipleser ssh l click on button object",
+        "step 8: Navigate to Page services baremetal-services multipleser ssh l",
+        "step 9: At Page services baremetal-services multipleser ssh l click on button object",
+        "step 10: At Page services baremetal-services multipleser ssh l click on span object",
+        "step 11: Add visual checkpoint at Page services baremetal-services multipleser ssh l"
+    ]
+}
