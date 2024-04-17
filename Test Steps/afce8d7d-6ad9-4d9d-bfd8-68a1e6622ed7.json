@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Manage compute cloud environment automation workloads",
+        "step 4: Manage networks for compute cloud automation",
+        "step 5: Click on input field",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

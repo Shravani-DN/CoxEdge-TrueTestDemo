@@ -1,471 +1,2671 @@
-Flow ID,Description,Test Steps,Flow Priority
-48,Verify Navigation and Interaction with Storage Detail Edge Compute V2 Compute Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on p object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service storage-detail edge-compute-v2 comput
-step 6: Navigate to Page service storage-detail edge-compute-v2 comput --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 7: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service storage-detail edge-compute-v2 comput
-step 8: At Page service storage-detail edge-compute-v2 comput click on button object
-step 9: Navigate to Page service storage-detail edge-compute-v2 comput --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 10: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service storage-detail edge-compute-v2 comput
-step 11: At Page service storage-detail edge-compute-v2 comput click on button object
-step 12: Add visual checkpoint at Page service storage-detail edge-compute-v2 comput",High
-22,Verify Successful Workflow for Adding Workloads to Compute Cloud Edge Compute V2 T,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on button object --> navigate to Page add-workloads compute-cloud edge-compute-v2 t
-step 5: At Page add-workloads compute-cloud edge-compute-v2 t click on button object
-step 6: Navigate to Page add-workloads compute-cloud edge-compute-v2 t
-step 7: At Page add-workloads compute-cloud edge-compute-v2 t click on button object
-step 8: At Page add-workloads compute-cloud edge-compute-v2 t click on button object
-step 9: Add visual checkpoint at Page add-workloads compute-cloud edge-compute-v2 t",High
-34,Verify Successful Workflow for Managing Workloads in Edge Compute V2 Comp,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on button object
-step 5: Navigate to Page service manage-workloads edge-compute-v2 comp
-step 6: At Page service manage-workloads edge-compute-v2 comp click on button object
-step 7: At Page service manage-workloads edge-compute-v2 comp click on span object
-step 8: Navigate to Page service manage-workloads edge-compute-v2 comp
-step 9: At Page service manage-workloads edge-compute-v2 comp click on button object
-step 10: At Page service manage-workloads edge-compute-v2 comp click on li object
-step 11: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",High
-51,Verify Navigation and Interaction with Workload Detail Edge Compute V2 Compute Page including Settings and Overview Tabs,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service workload-detail edge-compute-v2 compu
-step 5: At Page service workload-detail edge-compute-v2 compu click on div object
-step 6: Navigate to Page service workload-detail edge-compute-v2 compu
-step 7: At Page service workload-detail edge-compute-v2 compu click on div rc tabs 1 tab settings
-step 8: Navigate to Page service workload-detail edge-compute-v2 compu
-step 9: At Page service workload-detail edge-compute-v2 compu click on span test1
-step 10: At Page service workload-detail edge-compute-v2 compu click on div object
-step 11: At Page service workload-detail edge-compute-v2 compu click on button object
-step 12: Navigate to Page service workload-detail edge-compute-v2 compu
-step 13: At Page service workload-detail edge-compute-v2 compu click on button object
-step 14: Navigate to Page service workload-detail edge-compute-v2 compu
-step 15: At Page service workload-detail edge-compute-v2 compu click on div object
-step 16: At Page service workload-detail edge-compute-v2 compu click on div rc tabs 1 tab overview
-step 17: Navigate to Page service workload-detail edge-compute-v2 compu
-step 18: At Page service workload-detail edge-compute-v2 compu click on div object
-step 19: At Page service workload-detail edge-compute-v2 compu click on div object
-step 20: At Page service workload-detail edge-compute-v2 compu click on div object
-step 21: Add visual checkpoint at Page service workload-detail edge-compute-v2 compu",High
-31,Verify Successful Workflow for Managing Workloads in Edge Compute V2 Comp,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on button object
-step 6: Navigate to Page service manage-workloads edge-compute-v2 comp
-step 7: At Page service manage-workloads edge-compute-v2 comp click on button object
-step 8: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",High
-17,Verify Successful Login and Navigation to Home Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object
-step 4: At Page home click on span object --> navigate to Page profile accountInformation
-step 5: At Page profile accountInformation click on button object --> navigate to Page home
-step 6: At Page home click on button object
-step 7: Navigate to Page home
-step 8: At Page home click on button object
-step 9: Add visual checkpoint at Page home",High
-59,Verify Navigation and Interaction with Storage Detail Edge Compute V2 Compute Page including Object Interaction,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on p object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service storage-detail edge-compute-v2 comput
-step 6: At Page service storage-detail edge-compute-v2 comput click on span object
-step 7: Navigate to Page service storage-detail edge-compute-v2 comput
-step 8: At Page service storage-detail edge-compute-v2 comput click on button object
-step 9: Add visual checkpoint at Page service storage-detail edge-compute-v2 comput",Medium
-61,Verify Successful Addition of Snapshot to Compute Cloud Edge Compute V2 Template,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on button object --> navigate to Page add-snapshot compute-cloud edge-compute-v2 te
-step 6: At Page add-snapshot compute-cloud edge-compute-v2 te click on button object
-step 7: Add visual checkpoint at Page add-snapshot compute-cloud edge-compute-v2 te",Medium
-49,Verify Navigation and Interaction with Manage Workloads Edge Compute V2 Compute Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on button object
-step 6: Navigate to Page service manage-workloads edge-compute-v2 comp
-step 7: At Page service manage-workloads edge-compute-v2 comp click on button object
-step 8: At Page service manage-workloads edge-compute-v2 comp click on span object
-step 9: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Medium
-60,Verify Navigation and Interaction with Manage Workloads Edge Compute V2 Compute Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on p object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on button object
-step 6: At Page service manage-workloads edge-compute-v2 comp click on span object
-step 7: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Medium
-20,Verify Successful Login and Navigation to Users Page in Administration,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object
-step 4: At Page home click on span object --> navigate to Page profile accountInformation
-step 5: At Page profile accountInformation click on button object --> navigate to Page home
-step 6: At Page home click on button object --> navigate to Page administration org
-step 7: At Page administration org click on div rc tabs 1 tab org auth --> navigate to Page administration orge80611c-29c5-4bab-8e6d-1c4f
-step 8: At Page administration orge80611c-29c5-4bab-8e6d-1c4f click on div rc tabs 1 tab org service
-step 9: At Page administration orge80611c-29c5-4bab-8e6d-1c4f click on div rc tabs 1 tab org quote
-step 10: At Page administration orge80611c-29c5-4bab-8e6d-1c4f click on div rc tabs 1 tab org bills
-step 11: At Page administration orge80611c-29c5-4bab-8e6d-1c4f click on div rc tabs 1 tab org credit
-step 12: At Page administration orge80611c-29c5-4bab-8e6d-1c4f click on p object --> navigate to Page administration users
-step 13: At Page administration users click on hyperlink object
-step 14: At Page administration users click on hyperlink object
-step 15: At Page administration users click on button object
-step 16: Add visual checkpoint at Page administration users",Medium
-47,Verify Navigation to Add Storage Compute Cloud Edge Compute V2 Test Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on p object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on button object --> navigate to Page add-storage compute-cloud edge-compute-v2 tes
-step 6: Add visual checkpoint at Page add-storage compute-cloud edge-compute-v2 tes",Medium
-63,Verify Successful Navigation and Actions on Service Workload Detail for Edge Compute V2 Compute,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service workload-detail edge-compute-v2 compu
-step 6: At Page service workload-detail edge-compute-v2 compu click on button object
-step 7: At Page service workload-detail edge-compute-v2 compu click on button object
-step 8: Navigate to Page service workload-detail edge-compute-v2 compu
-step 9: At Page service workload-detail edge-compute-v2 compu click on button object
-step 10: At Page service workload-detail edge-compute-v2 compu click on span object
-step 11: At Page service workload-detail edge-compute-v2 compu click on button object
-step 12: Add visual checkpoint at Page service workload-detail edge-compute-v2 compu",Medium
-52,Verify Navigation and Interaction with Manage Workloads Edge Compute V2 Compute Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on p object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 6: At Page service manage-workloads edge-compute-v2 comp click on p object
-step 7: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Medium
-62,Verify Successful Navigation to Service Workload Detail for Edge Compute V2 Compute,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service workload-detail edge-compute-v2 compu
-step 6: At Page service workload-detail edge-compute-v2 compu click on button object
-step 7: At Page service workload-detail edge-compute-v2 compu click on button object
-step 8: Add visual checkpoint at Page service workload-detail edge-compute-v2 compu",Medium
-50,Verify Navigation and Interaction with Workload Detail Edge Compute V2 Compute Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service workload-detail edge-compute-v2 compu
-step 6: Add visual checkpoint at Page service workload-detail edge-compute-v2 compu",Medium
-53,Verify Navigation and Interaction with Workload Detail Edge Compute V2 Compute Page including Userdata Tab,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service workload-detail edge-compute-v2 compu
-step 5: At Page service workload-detail edge-compute-v2 compu click on button object
-step 6: Navigate to Page service workload-detail edge-compute-v2 compu
-step 7: At Page service workload-detail edge-compute-v2 compu click on p object
-step 8: At Page service workload-detail edge-compute-v2 compu click on div object
-step 9: At Page service workload-detail edge-compute-v2 compu click on div rc tabs 2 tab userdata
-step 10: At Page service workload-detail edge-compute-v2 compu click on div object
-step 11: Add visual checkpoint at Page service workload-detail edge-compute-v2 compu",Medium
-19,Verify Successful Login and Navigation to Your Invoice View in Reporting,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object
-step 4: At Page home click on span object --> navigate to Page profile accountInformation
-step 5: At Page profile accountInformation click on button object --> navigate to Page home
-step 6: At Page home click on button object --> navigate to Page reporting organization
-step 7: At Page reporting organization click on div object --> navigate to Page reporting your-invoice-view
-step 8: At Page reporting your-invoice-view click on p object --> navigate to Page reporting your-invoice-viewc6440-3f1c-42b2-9d
-step 9: Add visual checkpoint at Page reporting your-invoice-viewc6440-3f1c-42b2-9d",Medium
-33,Verify Successful Navigation to Edge Compute V2 Comp in Service Management Workloads,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 5: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Medium
-14,Verify Successful Login and Navigation to Service Management Page for Edge Compute Stackpatha,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object
-step 4: At Page home click on span object --> navigate to Page profile accountInformation
-step 5: At Page profile accountInformation click on button object --> navigate to Page home
-step 6: At Page home click on button object --> navigate to Page service manage-workloads edge-compute stackpa
-step 7: At Page service manage-workloads edge-compute stackpa click on div object
-step 8: Add visual checkpoint at Page service manage-workloads edge-compute stackpa",Medium
-54,Verify Navigation and Interaction with Workload Detail Edge Compute V2 Compute Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on td object --> navigate to Page service workload-detail edge-compute-v2 compu
-step 5: At Page service workload-detail edge-compute-v2 compu click on button object
-step 6: Add visual checkpoint at Page service workload-detail edge-compute-v2 compu",Medium
-58,Verify Navigation and Interaction with Manage Workloads Edge Compute V2 Compute Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on button object
-step 6: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Low
-28,Verify Successful Workflow for Managing Baremetal Services in Multipleser SSHL,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page services baremetal-services
-step 4: At Page services baremetal-services click on td object --> navigate to Page services baremetal-services multipleser serve
-step 5: At Page services baremetal-services multipleser serve click on div object --> navigate to Page services baremetal-services multipleser custo
-step 6: At Page services baremetal-services multipleser custo click on div object --> navigate to Page services baremetal-services multipleser ssh l
-step 7: At Page services baremetal-services multipleser ssh l click on button object
-step 8: Navigate to Page services baremetal-services multipleser ssh l
-step 9: At Page services baremetal-services multipleser ssh l click on button object
-step 10: At Page services baremetal-services multipleser ssh l click on span object
-step 11: Add visual checkpoint at Page services baremetal-services multipleser ssh l",Low
-65,Verify Successful Navigation and Actions on Baremetal Services Multipleser Serve,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page services baremetal-services
-step 4: At Page services baremetal-services click on td object --> navigate to Page services baremetal-services multipleser serve
-step 5: At Page services baremetal-services multipleser serve click on button object
-step 6: At Page services baremetal-services multipleser serve click on span object
-step 7: Add visual checkpoint at Page services baremetal-services multipleser serve",Low
-67,Verify Successful Navigation to Profile Account Information from Baremetal Services,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page services baremetal-services
-step 4: At Page services baremetal-services click on td object --> navigate to Page services baremetal-services multipleser serve
-step 5: At Page services baremetal-services multipleser serve click on button object
-step 6: At Page services baremetal-services multipleser serve click on span object --> navigate to Page profile accountInformation
-step 7: At Page profile accountInformation click on button object
-step 8: Add visual checkpoint at Page profile accountInformation",Low
-68,Verify Successful Addition of Workloads to Compute Cloud Edge Compute V2 T,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on span test1
-step 5: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 6: At Page service manage-workloads edge-compute-v2 comp click on span test1
-step 7: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 8: At Page service manage-workloads edge-compute-v2 comp click on button object --> navigate to Page add-workloads compute-cloud edge-compute-v2 t
-step 9: At Page add-workloads compute-cloud edge-compute-v2 t click on button object
-step 10: At Page add-workloads compute-cloud edge-compute-v2 t click on button object
-step 11: Add visual checkpoint at Page add-workloads compute-cloud edge-compute-v2 t",Low
-44,Verify Login and Navigation to Activity Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page activity
-step 4: At Page activity click on button object
-step 5: Add visual checkpoint at Page activity",Low
-43,Verify Login and Navigation to Baremetal Services Management Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page services baremetal-services
-step 4: At Page services baremetal-services click on span object --> navigate to Page environment bare-metal baremetal-services man
-step 5: Add visual checkpoint at Page environment bare-metal baremetal-services man",Low
-66,Verify Successful Navigation and Actions on Profile API Credentials,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object
-step 4: At Page home click on span object --> navigate to Page profile accountInformation
-step 5: At Page profile accountInformation click on p object --> navigate to Page profile apiCredentials
-step 6: At Page profile apiCredentials click on button object
-step 7: At Page profile apiCredentials click on li object
-step 8: Navigate to Page profile apiCredentials
-step 9: At Page profile apiCredentials click on button object
-step 10: At Page profile apiCredentials input on input name
-step 11: At Page profile apiCredentials click on button object
-step 12: Add visual checkpoint at Page profile apiCredentials",Low
-42,Verify Login and Navigation to Baremetal Services Tese Servers Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page services baremetal-services
-step 4: At Page services baremetal-services click on div object --> navigate to Page services baremetal-services tese servers
-step 5: Add visual checkpoint at Page services baremetal-services tese servers",Low
-4,Verify Successful Login and Navigation to Add Environment Bare Metal Bareme,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page services baremetal-services
-step 4: At Page services baremetal-services click on button object --> navigate to Page environment add-environment bare-metal bareme
-step 5: Add visual checkpoint at Page environment add-environment bare-metal bareme",Low
-41,Verify Login and Navigation to Baremetal Services Testbm Servers Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page services baremetal-services
-step 4: At Page services baremetal-services click on div object --> navigate to Page services baremetal-services testbm servers
-step 5: Add visual checkpoint at Page services baremetal-services testbm servers",Low
-64,Verify Successful Addition of Workloads to Compute Cloud Edge Compute V2 L,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on button object --> navigate to Page add-workloads compute-cloud edge-compute-v2 l
-step 5: At Page add-workloads compute-cloud edge-compute-v2 l click on button object
-step 6: At Page add-workloads compute-cloud edge-compute-v2 l click on button object
-step 7: Add visual checkpoint at Page add-workloads compute-cloud edge-compute-v2 l",Low
-56,Verify Navigation and Interaction with Manage Workloads Edge Compute V2 Compute Page including Add Workloads,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on button object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on span object
-step 6: Navigate to Page service manage-workloads edge-compute-v2 comp --> navigate to Page add-workloads compute-cloud edge-compute-v2 t
-step 7: At Page add-workloads compute-cloud edge-compute-v2 t click on button object
-step 8: At Page add-workloads compute-cloud edge-compute-v2 t click on button object
-step 9: At Page add-workloads compute-cloud edge-compute-v2 t click on input hostname
-step 10: At Page add-workloads compute-cloud edge-compute-v2 t input on input hostname
-step 11: At Page add-workloads compute-cloud edge-compute-v2 t click on input label
-step 12: At Page add-workloads compute-cloud edge-compute-v2 t input on input label
-step 13: At Page add-workloads compute-cloud edge-compute-v2 t click on div object
-step 14: At Page add-workloads compute-cloud edge-compute-v2 t click on div testssh
-step 15: At Page add-workloads compute-cloud edge-compute-v2 t click on span testssh
-step 16: At Page add-workloads compute-cloud edge-compute-v2 t click on div object
-step 17: At Page add-workloads compute-cloud edge-compute-v2 t click on input object
-step 18: At Page add-workloads compute-cloud edge-compute-v2 t click on button object --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 19: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Low
-55,Verify Navigation to Manage Workloads Edge Compute V2 Compute Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on button object
-step 5: At Page service manage-workloads edge-compute-v2 comp click on span object
-step 6: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Low
-1,Verify Successful Login and Navigation to Dashboard Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page dashboard
-step 4: At Page dashboard click on div object
-step 5: At Page dashboard click on div react select 2 option 1
-step 6: Add visual checkpoint at Page dashboard",Low
-35,Verify Successful Navigation to Edge Compute Stackpa in Service Management Workloads,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute stackpa
-step 4: At Page service manage-workloads edge-compute stackpa click on span string
-step 5: At Page service manage-workloads edge-compute stackpa click on div object
-step 6: At Page service manage-workloads edge-compute stackpa click on p object
-step 7: Add visual checkpoint at Page service manage-workloads edge-compute stackpa",Low
-45,Verify Login and Navigation to SSH Keys Page in Profile,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page profile sshKeys
-step 4: At Page profile sshKeys click on button object
-step 5: At Page profile sshKeys click on li object
-step 6: Add visual checkpoint at Page profile sshKeys",Low
-40,Verify Successful Navigation to Server Details in Baremetal Server Settings,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page services baremetal-server-settings
-step 4: At Page services baremetal-server-settings click on div rc tabs 0 tab server details --> navigate to Page services baremetal-server-details
-step 5: Add visual checkpoint at Page services baremetal-server-details",Low
-18,Verify Successful Login and Navigation to SSH Keys Page in Profile,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page profile sshKeys
-step 4: At Page profile sshKeys click on button object
-step 5: Navigate to Page profile sshKeys
-step 6: At Page profile sshKeys click on button object
-step 7: Add visual checkpoint at Page profile sshKeys",Low
-36,Verify Successful Navigation to Edge Compute Stackpa in Service Management Workloads,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute stackpa
-step 4: At Page service manage-workloads edge-compute stackpa click on div object
-step 5: Add visual checkpoint at Page service manage-workloads edge-compute stackpa",Low
-25,Verify Successful Navigation to Stackpath Cox UAT Regression in Service Management DNS,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-dns stackpath-cox-uat regressi
-step 4: At Page service manage-dns stackpath-cox-uat regressi click on button object
-step 5: Add visual checkpoint at Page service manage-dns stackpath-cox-uat regressi",Low
-2,Verify Successful Login and Navigation to Service Management Page for DNS Stackpath Cox Uat Ser,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: At Page home click on button object --> navigate to Page service manage-dns stackpath-cox-uat ser
-step 4: Add visual checkpoint at Page service manage-dns stackpath-cox-uat ser",Low
-57,Verify Navigation and Interaction with Manage Workloads Edge Compute Stackpath Page including Add Vpcs,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute stackpa
-step 4: At Page service manage-workloads edge-compute stackpa click on button object --> navigate to Page add-vpcs testingstandarduser stackpath-cox-ua
-step 5: At Page add-vpcs testingstandarduser stackpath-cox-ua click on button object
-step 6: Add visual checkpoint at Page add-vpcs testingstandarduser stackpath-cox-ua",Low
-30,Verify Successful Navigation to Stackpath Cox UAT Regression in Service Management DNS,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-dns stackpath-cox-uat regressi
-step 4: At Page service manage-dns stackpath-cox-uat regressi click on p object
-step 5: Add visual checkpoint at Page service manage-dns stackpath-cox-uat regressi",Low
-46,Verify Login and Navigation to Users Management Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page administration users a392d095-70ff-477f-8244-
-step 4: At Page administration users a392d095-70ff-477f-8244- click on p object
-step 5: At Page administration users a392d095-70ff-477f-8244- click on td object
-step 6: At Page administration users a392d095-70ff-477f-8244- click on input rc select 1
-step 7: At Page administration users a392d095-70ff-477f-8244- click on div object
-step 8: Add visual checkpoint at Page administration users a392d095-70ff-477f-8244-",Low
-15,Verify Successful Login and Navigation to Service Management Page for Edge Compute V2 Compute,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Low
-27,Verify Successful Editing of User A392d09570ff in Administration Users A392d09570ff477f8244,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page administration users a392d095-70ff-477f-8244-
-step 4: At Page administration users a392d095-70ff-477f-8244- click on button object --> navigate to Page administration users edit-user a392d095-70ff-
-step 5: Add visual checkpoint at Page administration users edit-user a392d095-70ff-",Low
-3,Verify Successful Login and Navigation to Add Environment Edge Compute Stack,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page environment add-environment edge-compute stac
-step 4: Add visual checkpoint at Page environment add-environment edge-compute stac",Low
-38,Verify Successful Navigation to Add Route Testing Standard User in Route Testing Standard User,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page view-route testingstandarduser stackpath-cox-
-step 4: At Page view-route testingstandarduser stackpath-cox- click on button object --> navigate to Page add-route testingstandarduser stackpath-cox-u
-step 5: Add visual checkpoint at Page add-route testingstandarduser stackpath-cox-u",Low
-39,Verify Successful Navigation to Add Subnets Testing Standard User in Subnets Testing Standard User,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page view-subnets testingstandarduser stackpath-co
-step 4: At Page view-subnets testingstandarduser stackpath-co click on button object --> navigate to Page add-subnets testingstandarduser stackpath-cox
-step 5: Add visual checkpoint at Page add-subnets testingstandarduser stackpath-cox",Low
-37,Verify Successful Navigation to Edge Compute Stackpa in Route Testing Standard User,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page view-route testingstandarduser stackpath-cox-
-step 4: At Page view-route testingstandarduser stackpath-cox- click on button object --> navigate to Page service manage-workloads edge-compute stackpa
-step 5: Add visual checkpoint at Page service manage-workloads edge-compute stackpa",Low
-26,Verify Successful Navigation to Administration Users A392d09570ff477f8244,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page administration users a392d095-70ff-477f-8244-
-step 4: At Page administration users a392d095-70ff-477f-8244- click on p object
-step 5: Add visual checkpoint at Page administration users a392d095-70ff-477f-8244-",Low
-24,Verify Successful Workflow for Adding Workload to Stackpath Cox UAT Edge Compute R,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page add-workload stackpath-cox-uat edge-compute r
-step 4: At Page add-workload stackpath-cox-uat edge-compute r click on button object
-step 5: Add visual checkpoint at Page add-workload stackpath-cox-uat edge-compute r",Low
-12,Verify Successful Login and Navigation to Service Management Page for Edge Compute Stackpatha,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute stackpa
-step 4: Add visual checkpoint at Page service manage-workloads edge-compute stackpa",Low
-32,Verify Successful Navigation to Edge Compute V2 Comp in Service Management Workloads,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: At Page service manage-workloads edge-compute-v2 comp click on div object
-step 5: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Low
-21,Verify Successful Login and Navigation to Profile Notifications Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page profile notifications
-step 4: At Page profile notifications click on button object
-step 5: Add visual checkpoint at Page profile notifications",Low
-7,Verify Successful Login and Navigation to Add DNS Zone Testingstandarduser Stackpath Co,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page add-dns-zone testingstandarduser stackpath-co
-step 4: Add visual checkpoint at Page add-dns-zone testingstandarduser stackpath-co",Low
-29,Verify Successful Navigation to Compute Cloud Compute Servers in Compute Cloud Compute Workloads View,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page services compute-cloud compute workloads-view
-step 4: At Page services compute-cloud compute workloads-view click on div object --> navigate to Page services compute-cloud compute servers
-step 5: Add visual checkpoint at Page services compute-cloud compute servers",Low
-23,Verify Successful Workflow for Adding Workload to Stackpath Cox UAT Edge Compute S,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page add-workload stackpath-cox-uat edge-compute s
-step 4: At Page add-workload stackpath-cox-uat edge-compute s click on button object
-step 5: Add visual checkpoint at Page add-workload stackpath-cox-uat edge-compute s",Low
-11,Verify Successful Login and Navigation to Service Management Page for Edge Compute Stackpatha,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute stackpa
-step 4: Add visual checkpoint at Page service manage-workloads edge-compute stackpa",Low
-16,Verify Successful Login and Navigation to Services Baremetal Services Server Type Serve,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page services baremetal-services server-type-serve
-step 4: Add visual checkpoint at Page services baremetal-services server-type-serve",Low
-13,Verify Successful Login and Navigation to Service Management Page for Edge Compute Stackpatha,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute stackpa
-step 4: Add visual checkpoint at Page service manage-workloads edge-compute stackpa",Low
-10,Verify Successful Login and Navigation to Service Workload Detail Page for Edge Compute V2 Compute,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service workload-detail edge-compute-v2 compu
-step 4: Add visual checkpoint at Page service workload-detail edge-compute-v2 compu",Low
-9,Verify Successful Login and Navigation to Service Management Page for Edge Compute V2 Compute,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Low
-5,Verify Successful Login and Navigation to Add Environment Edge Compute V2 C,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page environment add-environment edge-compute-v2 c
-step 4: Add visual checkpoint at Page environment add-environment edge-compute-v2 c",Low
-6,Verify Successful Login and Navigation to Edge Compute V2 Compute Cloud Management Page,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page environment edge-compute-v2 compute-cloud man
-step 4: Add visual checkpoint at Page environment edge-compute-v2 compute-cloud man",Low
-8,Verify Successful Login and Navigation to Service Management Page for Edge Compute V2 Compute,"step 1: Navigate to Page home --> navigate to Page login
-step 2: Login at Page login --> navigate to Page home
-step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute-v2 comp
-step 4: Add visual checkpoint at Page service manage-workloads edge-compute-v2 comp",Low
+Flow ID,Name,Description,Test Steps,Flow Priority
+9,Verify Checkout Process Completion,Navigate to the home page and login. Proceed with the checkout process by selecting items and entering necessary details. Verify the completion of the checkout process.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on span
+Step 5: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 6: Take full page screenshot as checkpoint
+",High
+58,Verify Home Page Access,Navigate to the home page after logging in. Check and verify the contents and layout of the home page.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 4: Click on button 'Home' -> Navigate to page 'home'
+Step 5: Take full page screenshot as checkpoint
+",Trivial
+1,Verify Service Management Workload,Access the service management workload section after logging in. Perform specified actions and verify the status of the workload.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on svg
+Step 5: Click on button 'TS'
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+48,Verify Bare Metal Services,Navigate to the bare metal services page after logging in. Perform actions related to bare metal services and verify the displayed information.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 4: Click on button 'TS'
+Step 5: Take full page screenshot as checkpoint
+",Trivial
+38,Verify Automation Storage Management,Access the automation storage management section after logging in. Perform actions related to storage management and verify the results.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 5: Enter input value in input field
+Step 6: Click on span
+Step 7: Click on span
+Step 8: Click on button 'TS'
+Step 9: Take full page screenshot as checkpoint
+",Trivial
+19,Verify Automation Network Management,Access the automation network management section after logging in. Perform network-related actions and verify the outcomes.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 5: Click on svg
+Step 6: Click on button 'TS'
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+20,Verify Automation Network Configuration,Access the automation network configuration section after logging in. Configure network settings and verify the changes.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 5: Enter input value in input field
+Step 6: Click on button
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+85,Verify Workload Addition Process Continuation,Access the workload management section and add a workload. Continue through the workload addition steps and verify the completion.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on button 'Add Workload' -> Navigate to page 'add-workloads/compute-cloud/*/automation'
+Step 5: Click on button 'Next'
+Step 6: Click on button 'Next'
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+89,Verify Service Workload Details,Access the service workload details section after logging in. Explore and verify the displayed workload details.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 5: Click on div 'rc-tabs-2-tab-settings'
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+84,Verify Workload Addition Process,Access the workload management section and add a workload. Proceed through the workload addition steps and verify the completion.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on button 'Add Workload' -> Navigate to page 'add-workloads/compute-cloud/*/automation'
+Step 5: Click on button 'Next'
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+49,Verify Bare Metal Services Options,Navigate to the bare metal services page after logging in. Explore and verify the available options and functionalities.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 4: Click on button
+Step 5: Click on span
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+63,Verify Home Page After Selecting Organization and Edge Compute,Navigate to the home page and log in. Click on the 'Edge compute 20' button and perform various actions. Input details and click on buttons to manage server creation. Verify the home page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 5: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 6: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 7: Enter input value in input field
+Step 8: Click on div
+Step 9: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 10: Click on div 'rc-tabs-4-tab-settings'
+Step 11: Click on button 'Enable VPC'
+Step 12: Click on button 'Continue'
+Step 13: Click on button 'Enable VPC 2.0'
+Step 14: Click on button 'Continue'
+Step 15: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 16: Click on button 'Home' -> Navigate to page 'home'
+Step 17: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 18: Click on button 'Home' -> Navigate to page 'home'
+Step 19: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 20: Click on button 'Home'
+Step 21: Click buttons and input objects for server creation
+	- Step 1: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+	- Step 2: Click on button 'Home' -> Navigate to page 'home'
+	- Step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+	- Step 4: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'
+	- Step 5: Click on button 'Add a Server' -> Navigate to page 'services/baremetal-services/sanity/create'
+	- Step 6: Click on button 'add-bm-step0-next'
+	- Step 7: Click on button 'add-bm-step1-next'
+	- Step 8: Click on input field
+	- Step 9: Enter input value in input field
+	- Step 10: Click on div
+	- Step 11: Enter input value in input field
+	- Step 12: Click on button 'add-bm-step2-next'
+	- Step 13: Click on svg  -> Navigate to page 'services/baremetal-services/sanity/servers'
+	- Step 14: Click on button 'Home'
+Step 22: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 23: Click on svg
+Step 24: Click on button '×'
+Step 25: Click on button 'Home' -> Navigate to page 'home'
+Step 26: Take full page screenshot as checkpoint
+",Trivial
+71,Verify Snapshots in Service Manage Workloads Compute Cloud Cm Env Workload,Navigate to the home page and log in. Click on the 'Edge compute 20' button and proceed to snapshots management. Verify the snapshots page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/workload'
+Step 4: Click on span
+Step 5: Click on p
+Step 6: Click on button 'Home' -> Navigate to page 'home'
+Step 7: Click on button 'TS'
+Step 8: Click on span
+Step 9: Click on input field
+Step 10: Enter input value in input field
+Step 11: Click on button 'Testing Standard User'
+Step 12: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 13: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 14: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 15: Take full page screenshot as checkpoint
+",Trivial
+70,Verify Snapshots in Service Manage Workloads Compute Cloud Automation,Navigate to the home page and log in. Click on 'Ts' and then perform actions related to snapshots. Input details and click on buttons to add snapshots. Verify the snapshots page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 7: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 8: Click on button 'Add Snapshot' -> Navigate to page 'add-snapshot/compute-cloud/*/automation'
+Step 9: Click on input field
+Step 10: Enter input value in input field
+Step 11: Click on button 'Take Snapshot'
+Step 12: Click on svg
+Step 13: Perform svg, input, span, and button actions
+	- Step 1: Click on svg
+	- Step 2: Click on input field
+	- Step 3: Enter input value in input field
+	- Step 4: Click on span
+	- Step 5: Click on span
+	- Step 6: Click on button 'TS'
+Step 14: Take full page screenshot as checkpoint
+",Trivial
+69,Verify Snapshots in Service Manage Workloads Compute Cloud Automation,"Navigate to the home page and log in. Perform various actions involving input, span, and button clicks. Verify the snapshots page is displayed.","Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Perform svg, input, span, and button actions
+	- Step 1: Click on svg
+	- Step 2: Click on input field
+	- Step 3: Enter input value in input field
+	- Step 4: Click on span
+	- Step 5: Click on span
+	- Step 6: Click on button 'TS'
+Step 4: Take full page screenshot as checkpoint
+",Trivial
+68,Verify Snapshots in Service Manage Workloads Compute Cloud Automation,Navigate to the home page and log in. Click on the 'Edge compute 20' button and proceed to snapshots management. Input details and click on buttons. Verify the snapshots page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 5: Enter input value in input field
+Step 6: Click on button 'TS'
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+67,Verify Snapshots in Service Manage Workloads Compute Cloud Automation,Navigate to the home page and log in. Click on the 'Edge compute 20' button and proceed to snapshots management. Click on various objects and verify the snapshots page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 5: Click on svg
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+66,Verify Home Page After Selecting Organization and Edge Compute,Navigate to the home page and log in. Click on the 'Edge compute 20' button and perform actions related to bare metal services. Input details and click on buttons to manage server creation. Verify the home page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0'
+Step 4: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 5: Click on div 'rc-tabs-4-tab-settings'
+Step 6: Click on button 'Home' -> Navigate to page 'home'
+Step 7: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 8: Click on p
+Step 9: Input and click objects
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Cancel'
+	- Step 5: Enter input value in input field
+Step 10: Click on button
+Step 11: Click on span
+Step 12: Click on button 'Cancel'
+Step 13: Input and click objects
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Cancel'
+	- Step 5: Enter input value in input field
+Step 14: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 15: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 16: Click on div 'rc-tabs-2-tab-settings'
+Step 17: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 18: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 19: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 20: Click on p
+Step 21: Input and click objects
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Cancel'
+	- Step 5: Enter input value in input field
+Step 22: Perform cancel operation and input details
+	- Step 1: Click on button
+	- Step 2: Click on span
+	- Step 3: Click on button 'Cancel'
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+	- Step 6: Click on span
+Step 23: Click on button 'Cancel'
+Step 24: Click on button 'Home' -> Navigate to page 'home'
+Step 25: Click on button 'Activity' -> Navigate to page 'activity'
+Step 26: Click on button 'Home' -> Navigate to page 'home'
+Step 27: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 28: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 29: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 30: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 31: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/ioss'
+Step 32: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 33: Click on button 'Home' -> Navigate to page 'home'
+Step 34: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 35: Click on svg
+Step 36: Click on button '×'
+Step 37: Click on button 'Home' -> Navigate to page 'home'
+Step 38: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 39: Click on button 'Home'
+Step 40: Input and click objects for bare metal services
+	- Step 1: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+	- Step 2: Click on svg  -> Navigate to page 'environment/edit-environment/bare-metal/baremetal-services/*'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button 'Save'
+Step 41: Click on button
+Step 42: Click on span
+Step 43: Click on div
+Step 44: Click on button 'Bare Metal'
+Step 45: Click on button 'Home' -> Navigate to page 'home'
+Step 46: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 47: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 48: Click on svg
+Step 49: Click on button 'Cancel'
+Step 50: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 51: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 52: Click on button 'Home' -> Navigate to page 'home'
+Step 53: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 54: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 55: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 56: Click on button 'Home' -> Navigate to page 'home'
+Step 57: Take full page screenshot as checkpoint
+",Trivial
+65,Verify Home Page After Selecting Organization and Edge Compute,Navigate to the home page and log in. Click on the 'Edge compute 20' button and manage network settings. Perform various input and click actions. Verify the home page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 5: Enter input value in input field
+Step 6: Click on div
+Step 7: Click buttons for VPC enablement
+	- Step 1: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+	- Step 2: Click on div 'rc-tabs-2-tab-settings'
+	- Step 3: Click on button 'Enable VPC 2.0'
+	- Step 4: Click on button 'Continue'
+	- Step 5: Click on button 'Edge Compute 2.0'
+Step 8: Manage networks for compute cloud automation
+	- Step 1: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 2: Click on button 'VPC 2.0'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on span
+	- Step 6: Click on span
+	- Step 7: Click on p  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*/*'
+	- Step 8: Click on button 'VPC 2.0'
+Step 9: Enter input value in input field
+Step 10: Click on button
+Step 11: Click on span
+Step 12: Click on button 'Cancel'
+Step 13: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 14: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 15: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 16: Click on button 'Home' -> Navigate to page 'home'
+Step 17: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 18: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 19: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 20: Click on p
+Step 21: Input and click objects for network management
+	- Step 1: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 2: Enter input value in input field
+	- Step 3: Click on button
+	- Step 4: Click on span
+	- Step 5: Click on button 'Cancel'
+Step 22: Click on svg
+Step 23: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 24: Click on svg
+Step 25: Click on button 'TS'
+Step 26: Click on span  -> Navigate to page 'profile/accountInformation'
+Step 27: Click on button 'Home' -> Navigate to page 'home'
+Step 28: Click on button 'TS'
+Step 29: Click on span  -> Navigate to page 'profile/accountInformation'
+Step 30: Click on div  -> Navigate to page 'profile/apiCredentials'
+Step 31: Click on button 'Home' -> Navigate to page 'home'
+Step 32: Take full page screenshot as checkpoint
+",Trivial
+64,Verify Home Page After Selecting Organization and Edge Compute,Navigate to the home page and log in. Click on the 'Edge compute 20' button and proceed through various actions. Input details and click on buttons to manage environment settings. Verify the home page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/env automation/workload'
+Step 4: Click on span
+Step 5: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 6: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 7: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 8: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 9: Click on svg
+Step 10: Click on button 'Reserved IPs'
+Step 11: Click on button 'VPC 2.0'
+Step 12: Click on span
+Step 13: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/env automation/workload'
+Step 14: Click on span
+Step 15: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 16: Enter input value in input field
+Step 17: Click on button
+Step 18: Click on button
+Step 19: Continue and manage input and span actions
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Continue'
+	- Step 5: Enter input value in input field
+	- Step 6: Click on button
+Step 20: Click on span
+Step 21: Click on button 'Continue'
+Step 22: Click on svg
+Step 23: Click on div
+Step 24: Click on input field
+Step 25: Click on span
+Step 26: Continue and manage input and span actions
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Continue'
+	- Step 5: Enter input value in input field
+	- Step 6: Click on button
+Step 27: Click on button
+Step 28: Continue and manage input and span actions
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Continue'
+	- Step 5: Enter input value in input field
+	- Step 6: Click on button
+Step 29: Click on span
+Step 30: Click on button 'Continue'
+Step 31: Click on button 'Home' -> Navigate to page 'home'
+Step 32: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 33: Click on button 'Home' -> Navigate to page 'home'
+Step 34: Take full page screenshot as checkpoint
+",Trivial
+56,Manage Workloads and Networks in Compute Cloud Automation,Navigate to the home page and login. Manage workload and network settings in the compute cloud automation environment. Input required details and verify the settings for networks and workloads.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0'
+Step 4: Perform input and span actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on svg
+Step 5: Click on span
+Step 6: Click on button 'Continue'
+Step 7: Perform input and span actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on svg
+Step 8: Click on span
+Step 9: Click on button 'Continue'
+Step 10: Click on button 'Home' -> Navigate to page 'home'
+Step 11: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 12: Click on div  -> Navigate to page 'services/baremetal-services/admin/servers'
+Step 13: Click on button 'Add a Server'
+Step 14: Click on button 'Add a Server'
+Step 15: Click on div  -> Navigate to page 'services/baremetal-services/admin/custom servers'
+Step 16: Click on button 'Add a Custom Server'
+Step 17: Click on div  -> Navigate to page 'services/baremetal-services/admin/ssh list'
+Step 18: Click on button 'Create'
+Step 19: Click on textarea 'key'
+Step 20: Click on button 'Cancel'
+Step 21: Click on td
+Step 22: Click on button
+Step 23: Click on span
+Step 24: Click on button 'Continue'
+Step 25: Click on button 'Create'
+Step 26: Click on textarea 'key'
+Step 27: Click on button 'Cancel'
+Step 28: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 29: Click on span
+Step 30: Click on div
+Step 31: Click on button 'Add Environment' -> Navigate to page 'environment/add-environment/bare-metal/baremetal-services'
+Step 32: Click on input field
+Step 33: Click on button 'Next' -> Navigate to page 'environment/bare-metal/baremetal-services/manage-members/*'
+Step 34: Click on button  -> Navigate to page 'services/baremetal-services'
+Step 35: Click on button
+Step 36: Click on span
+Step 37: Click on button 'Continue'
+Step 38: Click on td  -> Navigate to page 'services/baremetal-services/admin/servers'
+Step 39: Click on p
+Step 40: Click on button 'Add a Server'
+Step 41: Click on button 'Add a Server'
+Step 42: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 43: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 44: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 45: Click on button 'Home' -> Navigate to page 'home'
+Step 46: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 47: Click on span
+Step 48: Click on div
+Step 49: Click on button 'Add Environment' -> Navigate to page 'environment/add-environment/bare-metal/baremetal-services'
+Step 50: Click on input field
+Step 51: Click on button 'Next' -> Navigate to page 'environment/bare-metal/baremetal-services/manage-members/*'
+Step 52: Click on button  -> Navigate to page 'services/baremetal-services'
+Step 53: Click on button
+Step 54: Click on div
+Step 55: Click on span
+Step 56: Click on span
+Step 57: Click on button 'Continue'
+Step 58: Click on button
+Step 59: Click on span
+Step 60: Take full page screenshot as checkpoint
+",Trivial
+62,Verify Home Page After Selecting Organization and Edge Compute,Navigate to the home page and log in. Click on 'Ts' and then on various objects. Proceed through different actions and verify the home page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on span  -> Navigate to page 'profile/accountInformation'
+Step 5: Click on button 'Home' -> Navigate to page 'home'
+Step 6: Click on div
+Step 7: Click on button 'TS'
+Step 8: Click on span  -> Navigate to page 'profile/accountInformation'
+Step 9: Click on button 'Home' -> Navigate to page 'home'
+Step 10: Click on button 'TS'
+Step 11: Click on span  -> Navigate to page 'profile/accountInformation'
+Step 12: Click on button 'Home' -> Navigate to page 'home'
+Step 13: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 14: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 15: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 16: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 17: Click on input field
+Step 18: Click on svg
+Step 19: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 20: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 21: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 22: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 23: Click on td  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 24: Click on button 'Edge Compute 2.0'
+Step 25: Click on button 'Edge Compute 2.0'
+Step 26: Click on button 'Home' -> Navigate to page 'home'
+Step 27: Take full page screenshot as checkpoint
+",Trivial
+61,Verify Home Page After Selecting Organization and Edge Compute,Navigate to the home page and click on the 'Edge compute 20' button. Click on the home button and then proceed to the 'Edge compute' page. Click on various objects and buttons and verify the home page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 3: Click on button 'Home' -> Navigate to page 'home'
+Step 4: Click on button 'Edge Compute' -> Navigate to page 'service/edge-compute/*/*'
+Step 5: Click on button  -> Navigate to page 'home'
+Step 6: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 7: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 8: Click on button 'Home' -> Navigate to page 'home'
+Step 9: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 10: Click on span  -> Navigate to page 'environment/bare-metal/baremetal-services/manage-members/*'
+Step 11: Click on button  -> Navigate to page 'services/baremetal-services'
+Step 12: Click on button
+Step 13: Click on div  -> Navigate to page 'home'
+Step 14: Take full page screenshot as checkpoint
+",Trivial
+60,Verify Home Page After Selecting Organization and Edge Compute,Navigate to the home page and log in. Click on the 'Edge compute 20' button and then the home button. Click on 'Ts' and verify that the home page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on button 'Home' -> Navigate to page 'home'
+Step 5: Click on button 'TS'
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+59,Verify Home Page After Selecting Organization,Navigate to the home page and log in. Click on the button to select the organization and verify that the home page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on span  -> Navigate to page 'profile/accountInformation'
+Step 5: Click on button 'Home' -> Navigate to page 'home'
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+57,Verify Checkout Process for Adding Items to Shopping Cart,Navigate to the home page and login. Add items to the shopping cart and proceed through the checkout process. Enter the required information and verify the completion of the checkout process.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 5: Click on button 'Home' -> Navigate to page 'home'
+Step 6: Click on button 'Activity' -> Navigate to page 'activity'
+Step 7: Click on button 'Home' -> Navigate to page 'home'
+Step 8: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 9: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 10: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 11: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 12: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 13: Click on button 'Add Workload' -> Navigate to page 'add-workloads/compute-cloud/*/automation'
+Step 14: Click on button 'Next'
+Step 15: Click on button 'Next'
+Step 16: Click on button 'Submit' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 17: Click on button 'Add Workload' -> Navigate to page 'add-workloads/compute-cloud/*/automation'
+Step 18: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 19: Click on button 'Home' -> Navigate to page 'home'
+Step 20: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 21: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 22: Click on button
+Step 23: Click on list item
+Step 24: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 25: Click on span  -> Navigate to page 'environment/bare-metal/baremetal-services/manage-members/*'
+Step 26: Click on button  -> Navigate to page 'services/baremetal-services'
+Step 27: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 28: Click on button
+Step 29: Click on span
+Step 30: Click on button 'Continue'
+Step 31: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 32: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 33: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 34: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 35: Click on button
+Step 36: Click on span
+Step 37: Click on button 'Continue'
+Step 38: Click on svg
+Step 39: Click on div
+Step 40: Click on div  -> Navigate to page 'services/baremetal-services/testbm/custom servers'
+Step 41: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 42: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 43: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 44: Click on button
+Step 45: Click on span
+Step 46: Click on button 'Continue'
+Step 47: Click on svg
+Step 48: Click on button 'Home' -> Navigate to page 'home'
+Step 49: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 50: Click on svg
+Step 51: Click on button '×'
+Step 52: Click on button 'Home' -> Navigate to page 'home'
+Step 53: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 54: Click on button 'Home' -> Navigate to page 'home'
+Step 55: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 56: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 57: Click on button 'Home' -> Navigate to page 'home'
+Step 58: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 59: Click on button 'Home' -> Navigate to page 'home'
+Step 60: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 61: Take full page screenshot as checkpoint
+",Trivial
+73,Verify Workload in Service Manage Workloads Compute Cloud Env Automation Workload,Navigate to the home page and log in. Click on the 'Edge compute 20' button and proceed through various actions. Verify the workload page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/env automation/workload'
+Step 4: Click on button 'TS'
+Step 5: Take full page screenshot as checkpoint
+",Trivial
+55,Add Servers and Perform Actions in Bare Metal Services,"Navigate to the home page and login. Perform actions related to servers in the bare metal services environment. Add servers, input details, and verify the server configurations.","Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services/resellerenv/servers'
+Step 4: Click on span
+Step 5: Click on button 'TK'
+Step 6: Click on span
+Step 7: Click on input field
+Step 8: Enter input value in input field
+Step 9: Click on button 'Testing Standard User' -> Navigate to page 'home'
+Step 10: Click on div
+Step 11: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 12: Enter input value in input field
+Step 13: Click on button  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 14: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 15: Click on div  -> Navigate to page 'services/baremetal-services/admin/servers'
+Step 16: Click on button 'Add a Server'
+Step 17: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 18: Take full page screenshot as checkpoint
+",Trivial
+54,Manage Members in Bare Metal Services,Navigate to the home page and login. Manage members in the bare metal services environment. Input required details and verify the member management settings.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 3: Click on span  -> Navigate to page 'environment/bare-metal/baremetal-services/manage-members/*'
+Step 4: Enter input value in input field 'rc select 4' -> Navigate to page 'services/baremetal-services'
+Step 5: Click on div
+Step 6: Click on svg
+Step 7: Click on div
+Step 8: Click on span  -> Navigate to page 'environment/bare-metal/baremetal-services/manage-members/*'
+Step 9: Click on button  -> Navigate to page 'services/baremetal-services'
+Step 10: Click on button 'TS'
+Step 11: Take full page screenshot as checkpoint
+",Trivial
+53,Manage Bare Metal Environment in Bare Metal Services,Navigate to the home page and manage the bare metal environment in the bare metal services. Add and manage servers and verify the environment settings.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Perform button and bare metal services actions
+	- Step 1: Click on button 'TS'
+	- Step 2: Click on p
+	- Step 3: Click on button 'TS'
+	- Step 4: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+	- Step 5: Click on span
+	- Step 6: Click on div
+Step 4: Add and manage bare metal environment
+	- Step 1: Click on button 'Add Environment' -> Navigate to page 'environment/add-environment/bare-metal/baremetal-services'
+	- Step 2: Enter input value in input field
+	- Step 3: Enter input value in input field
+	- Step 4: Click on input field
+	- Step 5: Click on button 'Next'
+Step 5: Click on button
+Step 6: Click on button  -> Navigate to page 'services/baremetal-services'
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+72,Verify Snapshots in Service Manage Workloads Compute Cloud Automation,Navigate to the home page and log in. Click on the 'Edge compute 20' button and add a workload. Proceed through the workload creation process. Input details and verify the snapshots page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on button 'Add Workload' -> Navigate to page 'add-workloads/compute-cloud/*/automation'
+Step 5: Click on button 'Next'
+Step 6: Click on button 'Next'
+Step 7: Click on input field 'hostname'
+Step 8: Click on input field 'label'
+Step 9: Click on button 'Submit'
+Step 10: Click on svg  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 11: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 12: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 13: Click on div
+Step 14: Perform svg, input, span, and button actions
+	- Step 1: Click on svg
+	- Step 2: Click on input field
+	- Step 3: Enter input value in input field
+	- Step 4: Click on span
+	- Step 5: Click on span
+	- Step 6: Click on button 'TS'
+Step 15: Take full page screenshot as checkpoint
+",Trivial
+78,Verify Checkout Process Completion,Navigate to the home page and login. Proceed with adding items to the shopping cart and completing the checkout process. Verify that the checkout process is successfully completed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p
+Step 5: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 6: Click on button 'Linked Instances'
+Step 7: Click on button 'Add IPv4 Rules'
+Step 8: Click on span
+Step 9: Click on div
+Step 10: Click on button 'Cancel'
+Step 11: Click on button 'Firewall'
+Step 12: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 13: Take full page screenshot as checkpoint
+",Trivial
+74,Verify Workload in Service Manage Workloads Compute Cloud Automation Workload,Navigate to the home page and log in. Click on the 'Edge compute 20' button and proceed through various actions. Input details and manage environment settings. Verify the workload page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on span
+Step 5: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 6: Click on input field
+Step 7: Click on input field
+Step 8: Enter input value in input field
+Step 9: Click on span
+Step 10: Enter input value in input field
+Step 11: Click on span
+Step 12: Click on input field
+Step 13: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/admin/workload'
+Step 14: Click on span
+Step 15: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 16: Enter input value in input field
+Step 17: Click on button
+Step 18: Click on span  -> Navigate to page 'service/manage-workloads/*/compute-cloud/admin/workload'
+Step 19: Click on button 'Home' -> Navigate to page 'home'
+Step 20: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/env automation/workload'
+Step 21: Take full page screenshot as checkpoint
+",Trivial
+87,Verify Bare Metal Environment Management,Navigate to the home page and login. Add and manage members in the bare metal environment. Perform actions and verify the bare metal environment management.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Perform button and bare metal services actions
+	- Step 1: Click on button 'TS'
+	- Step 2: Click on p
+	- Step 3: Click on button 'TS'
+	- Step 4: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+	- Step 5: Click on span
+	- Step 6: Click on div
+Step 4: Add and manage bare metal environment
+	- Step 1: Click on button 'Add Environment' -> Navigate to page 'environment/add-environment/bare-metal/baremetal-services'
+	- Step 2: Enter input value in input field
+	- Step 3: Enter input value in input field
+	- Step 4: Click on input field
+	- Step 5: Click on button 'Next'
+Step 5: Click on button
+Step 6: Click on span
+Step 7: Click on button 'Done' -> Navigate to page 'services/baremetal-services'
+Step 8: Click on span
+Step 9: Click on div
+Step 10: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 11: Take full page screenshot as checkpoint
+",Trivial
+96,Verify Dashboard Page Navigation,Navigate to the home page and login. Access the dashboard page and verify the navigation.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 4: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 5: Click on button 'Home' -> Navigate to page 'home'
+Step 6: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+95,Verify Bare Metal Server Sanity Testing,Navigate to the home page and login. Perform actions related to bare metal servers and verify the sanity testing.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 4: Enter input value in input field
+Step 5: Click on button  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+94,Verify VPC Details in Compute Cloud Automation,Navigate to the home page and login. Access the workload management section in compute cloud automation. Perform actions and verify the VPC details.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 7: Click on span
+Step 8: Click on div
+Step 9: Click objects for workload management
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+	- Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 5: Click on button 'Add Firewall Group'
+Step 10: Click objects in sequence
+	- Step 1: Click on span
+	- Step 2: Click on div
+	- Step 3: Click on span
+	- Step 4: Click on div
+	- Step 5: Click on div
+Step 11: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on div
+	- Step 5: Click on div
+	- Step 6: Click on button
+Step 12: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 13: Click on button 'VPC Networks' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 14: Click on input field
+Step 15: Enter input value in input field
+Step 16: Click on button
+Step 17: Click on span  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/vpc-details-view/*'
+Step 18: Click on button 'TS'
+Step 19: Take full page screenshot as checkpoint
+",Trivial
+93,Verify VPC Details in Compute Cloud Automation,Navigate to the home page and login. Access the network and reserved IP sections in compute cloud automation. Perform actions and verify the VPC details.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 5: Click on input field
+Step 6: Click on p  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/reserved-ip-view/*'
+Step 7: Click on button 'Detach'
+Step 8: Click on svg
+Step 9: Click on svg
+Step 10: Click on button 'Reserved IPs' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 11: Click on svg
+Step 12: Click on button 'Add VPC 2.0'
+Step 13: Click objects in sequence
+	- Step 1: Click on span
+	- Step 2: Click on div
+	- Step 3: Click on span
+	- Step 4: Click on div
+	- Step 5: Click on div
+Step 14: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on div
+	- Step 5: Click on div
+	- Step 6: Click on button
+Step 15: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 16: Take full page screenshot as checkpoint
+",Trivial
+92,Verify VPC Details in Compute Cloud Automation,Navigate to the home page and login. Access the VPC details section in compute cloud automation. Perform actions and verify the VPC details.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p
+Step 5: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 6: Click on button 'TS'
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+91,Verify VPC Details in Compute Cloud Automation,Navigate to the home page and login. Access the VPC details section in compute cloud automation. Perform actions and verify the VPC details.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p
+Step 5: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+90,Verify Storage Detail in Compute Cloud Automation,Navigate to the home page and login. Access the storage detail section in compute cloud automation. Perform actions and verify the storage detail.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 5: Click on svg
+Step 6: Click on span  -> Navigate to page 'service/storage-detail/*/compute-cloud/automation/*'
+Step 7: Click on span
+Step 8: Take full page screenshot as checkpoint
+",Trivial
+88,Verify Bare Metal Server Management,Navigate to the home page and login. Access the bare metal services section and manage servers. Perform actions and verify the server management.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 4: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 5: Click on span
+Step 6: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 7: Click on button 'Add a Server' -> Navigate to page 'services/baremetal-services/testbm/create'
+Step 8: Click on button  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 9: Click on button 'Add a Server' -> Navigate to page 'services/baremetal-services/testbm/create'
+Step 10: Click on button  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 11: Click on div  -> Navigate to page 'services/baremetal-services/testbm/custom servers'
+Step 12: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 13: Click on div  -> Navigate to page 'services/baremetal-services/testbm/custom servers'
+Step 14: Click on div  -> Navigate to page 'services/baremetal-services/testbm/ssh list'
+Step 15: Click on div  -> Navigate to page 'services/baremetal-services/testbm/custom servers'
+Step 16: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 17: Take full page screenshot as checkpoint
+",Trivial
+86,Verify Adding Workloads in Compute Cloud Automation,Navigate to the home page and login. Add workloads in the compute cloud automation section. Perform various actions and verify the workload addition.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0'
+Step 7: Manage environment compute cloud
+	- Step 1: Click on span
+	- Step 2: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 8: Click on button 'Add Workload' -> Navigate to page 'add-workloads/compute-cloud/*/automation'
+Step 9: Click on span
+Step 10: Click on div
+Step 11: Click on span
+Step 12: Click on div
+Step 13: Click on button 'Snapshots'
+Step 14: Click on button '9dbc2743-2f1d-483b-8459-75e2921c26d5testing snapshot creation2024-04-03T03:58:36+00:00'
+Step 15: Click on button 'Next'
+Step 16: Take full page screenshot as checkpoint
+",Trivial
+75,Verify Workload in Service Manage Workloads Compute Cloud Aaaa Workload,Navigate to the home page and log in. Click on the 'Edge compute 20' button and proceed through various actions. Add an environment and verify the environment page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaaa/workload'
+Step 4: Click on span
+Step 5: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 6: Click on button 'Add Environment' -> Navigate to page 'environment/add-environment/*/compute-cloud'
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+83,Verify Compute Cloud Automation Page,Navigate to the home page and login. Access the compute cloud automation page. Perform various actions and verify the page.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page '*/compute-cloud/*/automation'
+Step 5: Click on span
+Step 6: Click on div
+Step 7: Click on span
+Step 8: Click on div
+Step 9: Click on div
+Step 10: Take full page screenshot as checkpoint
+",Trivial
+82,Verify Compute Cloud Automation Environment Management,Navigate to the home page and login. Manage the environment for compute cloud automation. Perform various actions and verify the environment management.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0'
+Step 7: Manage environment compute cloud
+	- Step 1: Click on span
+	- Step 2: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 8: Manage networks for compute cloud automation
+	- Step 1: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 2: Click on button 'VPC 2.0'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on span
+	- Step 6: Click on span
+	- Step 7: Click on p  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*/*'
+	- Step 8: Click on button 'VPC 2.0'
+Step 9: Click on input field
+Step 10: Enter input value in input field
+Step 11: Click on button
+Step 12: Click on span  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*/*'
+Step 13: Click on button
+Step 14: Click on span
+Step 15: Click on button 'Cancel'
+Step 16: Click on button
+Step 17: Click on span
+Step 18: Click on button 'Cancel'
+Step 19: Click on svg
+Step 20: Take full page screenshot as checkpoint
+",Trivial
+81,Verify Compute Cloud Automation Workload Details,Navigate to the home page and login. Access the compute cloud automation workload details page. Perform various actions and verify the workload details.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 5: Click on svg
+Step 6: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 7: Click on button 'TS'
+Step 8: Take full page screenshot as checkpoint
+",Trivial
+80,Verify Network and Storage Management in Compute Cloud Automation Workload,Navigate to the home page and login. Access the network and storage management sections of the compute cloud automation workload. Perform various actions and verify the network and storage settings.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0'
+Step 4: Click objects for workload settings
+	- Step 1: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+	- Step 2: Click on div 'rc-tabs-2-tab-settings'
+	- Step 3: Click on div
+	- Step 4: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+	- Step 5: Click on p
+Step 5: Click on p  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/reserved-ip-view/*'
+Step 6: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 7: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 8: Click on p  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/reserved-ip-view/*'
+Step 9: Click on button 'Detach'
+Step 10: Click on svg
+Step 11: Click on div
+Step 12: Click on button 'Network' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 13: Click on p
+Step 14: Click objects in sequence
+	- Step 1: Click on svg
+	- Step 2: Click on span
+	- Step 3: Click on button 'Cancel'
+	- Step 4: Click on svg
+	- Step 5: Click on span
+	- Step 6: Click on button 'Cancel'
+Step 15: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 16: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 17: Click on svg
+Step 18: Click on div
+Step 19: Click on svg
+Step 20: Click on div
+Step 21: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 22: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 23: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 24: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 25: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 26: Click on p
+Step 27: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 28: Take full page screenshot as checkpoint
+",Trivial
+79,Verify Available Releases from Organization s Team Project Releases,Navigate to the home page and login. Access the team project's releases section and verify the available releases.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0'
+Step 7: Manage environment compute cloud
+	- Step 1: Click on span
+	- Step 2: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 8: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 9: Click on button 'Add Firewall Group'
+Step 10: Click on input field
+Step 11: Enter input value in input field
+Step 12: Click on button 'Submit'
+Step 13: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 14: Click objects for network management
+	- Step 1: Click on button 'Firewall' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 2: Click on input field
+	- Step 3: Enter input value in input field
+	- Step 4: Click on button
+	- Step 5: Click on span
+Step 15: Click on button 'Add IPv4 Rules' -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/firewall/*/*'
+Step 16: Click on span
+Step 17: Click on div
+Step 18: Click on textarea
+Step 19: Enter input value in textarea
+Step 20: Click on button 'Submit'
+Step 21: Click on svg  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/firewall/*'
+Step 22: Click on svg
+Step 23: Add ipv4 rules and submit actions
+	- Step 1: Click on button 'Add IPv4 Rules' -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/firewall/*/*'
+	- Step 2: Click on span
+	- Step 3: Click on div
+	- Step 4: Click on textarea
+	- Step 5: Enter input value in textarea
+	- Step 6: Click on button 'Submit'
+	- Step 7: Click on svg
+	- Step 8: Click on svg
+Step 24: Add ipv4 rules and submit actions
+	- Step 1: Click on button 'Add IPv4 Rules' -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/firewall/*/*'
+	- Step 2: Click on span
+	- Step 3: Click on div
+	- Step 4: Click on textarea
+	- Step 5: Enter input value in textarea
+	- Step 6: Click on button 'Submit'
+	- Step 7: Click on svg
+	- Step 8: Click on svg
+Step 25: Add ipv4 rules and submit actions
+	- Step 1: Click on button 'Add IPv4 Rules' -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/firewall/*/*'
+	- Step 2: Click on span
+	- Step 3: Click on div
+	- Step 4: Click on textarea
+	- Step 5: Enter input value in textarea
+	- Step 6: Click on button 'Submit'
+	- Step 7: Click on svg
+	- Step 8: Click on svg
+Step 26: Click on button 'TS'
+Step 27: Take full page screenshot as checkpoint
+",Trivial
+51,Manage Members in Bare Metal Services,Navigate to the home page and login. Manage members in the bare metal services environment. Verify the member management settings for accuracy.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 4: Click on span  -> Navigate to page 'environment/bare-metal/baremetal-services/manage-members/*'
+Step 5: Click on button  -> Navigate to page 'services/baremetal-services'
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+77,Verify Firewall Details in Service Manage Workloads Compute Cloud Automation Workload,Navigate to the home page and log in. Click on the 'Edge compute 20' button and proceed to firewall details. Click on 'Ts' and perform various actions. Verify the firewall details page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p
+Step 5: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 6: Click on button 'TS'
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+76,Verify Firewall Details in Service Manage Workloads Compute Cloud Automation Workload,Navigate to the home page and log in. Click on the 'Edge compute 20' button and proceed to firewall details. Perform various input and div actions. Verify the firewall details page is displayed.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p
+Step 5: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+52,Add and Manage Bare Metal Servers in Bare Metal Services,Navigate to the home page and login. Add and manage bare metal servers in the bare metal services environment. Verify the server settings for accuracy.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 4: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 5: Click on div
+Step 6: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+43,Manage Storage Settings in Compute Cloud Automation,Navigate to the home page and login. Manage storage settings in the compute cloud automation environment. Add storage and input details. Verify the managed storage settings.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Manage compute cloud environment automation workloads
+	- Step 1: Click on button 'TS'
+	- Step 2: Click on p
+	- Step 3: Click on button 'TS'
+	- Step 4: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/env automation/workload'
+	- Step 5: Click on span
+	- Step 6: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 7: Click on input field
+	- Step 8: Enter input value in input field
+	- Step 9: Click on button
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 5: Click on button 'Add Storage' -> Navigate to page 'add-storage/compute-cloud/*/automation'
+Step 6: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 7: Enter input value in input field
+Step 8: Click on span
+Step 9: Click on span
+Step 10: Click on button 'TS'
+Step 11: Take full page screenshot as checkpoint
+",Trivial
+50,Add and Manage Bare Metal Servers in Bare Metal Services,Navigate to the home page and login. Add and manage bare metal servers in the bare metal services environment. Input required details and verify the server settings.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 4: Enter input value in input field
+Step 5: Click on button  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 6: Click on span
+Step 7: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 8: Take full page screenshot as checkpoint
+",Trivial
+12,Verify Successful Management of Compute Cloud Environment,Navigate to the home page and login. Manage workloads and compute cloud automation in the environment management section. Click on objects and verify the managed environment successfully.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Manage workloads and compute cloud automation
+	- Step 1: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+	- Step 2: Click on span
+	- Step 3: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 4: Click on span
+Step 5: Take full page screenshot as checkpoint
+",Trivial
+22,Verify Network Management in Service Workloads with Input Action,Navigate to the home page and login. Access the service workloads section and manage network settings. Input the required information and verify the network management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 5: Enter input value in input field
+Step 6: Click on button
+Step 7: Click on span
+Step 8: Take full page screenshot as checkpoint
+",Trivial
+21,Verify Network Management in Service Workloads,Navigate to the home page and login. Access the service workloads section and manage network settings. Click on objects and verify the network management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 5: Click on svg
+Step 6: Click on svg
+Step 7: Click on button 'TS'
+Step 8: Take full page screenshot as checkpoint
+",Trivial
+18,Verify Successful Management of Compute Cloud Environment with Multiple Actions,Navigate to the home page and login. Manage workloads and compute cloud automation in the environment management section. Perform various input and span actions and verify the managed environment successfully.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Manage workloads and compute cloud automation
+	- Step 1: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+	- Step 2: Click on span
+	- Step 3: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 4: Click on span
+Step 5: Click on button 'Continue'
+Step 6: Click on button 'Add Environment' -> Navigate to page 'environment/add-environment/*/compute-cloud'
+Step 7: Click on input field
+Step 8: Enter input value in input field
+Step 9: Click on button 'Next'
+Step 10: Click on svg
+Step 11: Click on div
+Step 12: Click on button  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 13: Click on button 'Home' -> Navigate to page 'home'
+Step 14: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaadd/workload'
+Step 15: Click on span
+Step 16: Click on div
+Step 17: Perform input and span actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on svg
+Step 18: Click on span
+Step 19: Click on button 'Continue'
+Step 20: Perform input and span actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on svg
+Step 21: Click on span
+Step 22: Click on button 'Continue'
+Step 23: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 24: Click on svg
+Step 25: Click on span
+Step 26: Click on button 'Continue'
+Step 27: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 28: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 29: Click on svg
+Step 30: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 31: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 32: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 33: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 34: Click on p
+Step 35: Add firewall group and submit input details
+	- Step 1: Click on button 'Add Firewall Group'
+	- Step 2: Click on input field
+	- Step 3: Enter input value in input field
+	- Step 4: Click on button 'Submit'
+	- Step 5: Enter input value in input field
+Step 36: Click on button
+Step 37: Click on span
+Step 38: Click on button 'Cancel'
+Step 39: Click on span
+Step 40: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 41: Click on button 'Home' -> Navigate to page 'home'
+Step 42: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaadd/workload'
+Step 43: Click on span
+Step 44: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 45: Click on span  -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaadd/workload'
+Step 46: Click on span
+Step 47: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 48: Click on button 'Home' -> Navigate to page 'home'
+Step 49: Click on button 'Activity' -> Navigate to page 'activity'
+Step 50: Click on button 'Home' -> Navigate to page 'home'
+Step 51: Click on svg
+Step 52: Click on div
+Step 53: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaadd/workload'
+Step 54: Click on button 'Edge Compute 2.0'
+Step 55: Click on svg
+Step 56: Click on div
+Step 57: Click on button 'Home' -> Navigate to page 'home'
+Step 58: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaadd/workload'
+Step 59: Click on span
+Step 60: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 61: Enter input value in input field
+Step 62: Click on button
+Step 63: Click on button
+Step 64: Perform input, button, span actions
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Continue'
+	- Step 5: Click on button 'Home'
+Step 65: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 66: Click on button 'TS'
+Step 67: Click on button 'TS'
+Step 68: Click on button 'TS'
+Step 69: Click on button 'TS'
+Step 70: Click on button 'TS'
+Step 71: Click on button 'TS'
+Step 72: Click on button 'TS'
+Step 73: Click on button 'TS'
+Step 74: Click on button 'TS'
+Step 75: Click on button 'TS'
+Step 76: Click on button 'TS'
+Step 77: Click on button 'TS'
+Step 78: Click on button 'TS'
+Step 79: Click on button 'TS'
+Step 80: Click on button
+Step 81: Click on div
+Step 82: Click on button 'Home' -> Navigate to page 'home'
+Step 83: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaadd/workload'
+Step 84: Click on span
+Step 85: Click on div
+Step 86: Continue and manage input and span actions
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Continue'
+	- Step 5: Enter input value in input field
+	- Step 6: Click on button
+Step 87: Click on button
+Step 88: Click on button 'Add Environment' -> Navigate to page 'environment/add-environment/*/compute-cloud'
+Step 89: Click on button  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 90: Take full page screenshot as checkpoint
+",Trivial
+17,Verify Successful Management of Compute Cloud Environment with Input and Span Actions,Navigate to the home page and login. Manage workloads and compute cloud automation in the environment management section. Perform input and span actions and verify the managed environment successfully.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on span  -> Navigate to page 'profile/apiCredentials'
+Step 5: Click on button
+Step 6: Click on svg
+Step 7: Click on button 'Cancel'
+Step 8: Click on button
+Step 9: Click on div
+Step 10: Click on button
+Step 11: Click on svg
+Step 12: Click on button 'Revoke'
+Step 13: Click on button
+Step 14: Click on svg
+Step 15: Click on button 'Revoke'
+Step 16: Click on button 'Generate API Key'
+Step 17: Click on input field 'name'
+Step 18: Enter input value in input field 'name'
+Step 19: Click on button 'Generate'
+Step 20: Click on svg
+Step 21: Click on div
+Step 22: Click on button 'Home' -> Navigate to page 'home'
+Step 23: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 24: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/ioss'
+Step 25: Click on span
+Step 26: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 27: Enter input value in input field
+Step 28: Click on button
+Step 29: Click on span
+Step 30: Click on button 'TS'
+Step 31: Take full page screenshot as checkpoint
+",Trivial
+16,Verify Management of Edge Compute 20 in Service Workloads with Object Actions,Navigate to the home page and login. Access the service workloads section and manage the Edge Compute 20 workload. Perform object actions and verify the environment management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/env automation/workload'
+Step 4: Click on span
+Step 5: Click on div
+Step 6: Continue and manage input and span actions
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Continue'
+	- Step 5: Enter input value in input field
+	- Step 6: Click on button
+Step 7: Click on span
+Step 8: Click on button 'Cancel'
+Step 9: Click on svg
+Step 10: Click on svg
+Step 11: Click on button 'TS'
+Step 12: Take full page screenshot as checkpoint
+",Trivial
+15,Verify Successful Management of Compute Cloud Environment with Ts Button,Navigate to the home page and login. Manage workloads and compute cloud automation in the environment management section. Click on the Ts button and verify the managed environment successfully.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Manage workloads and compute cloud automation
+	- Step 1: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+	- Step 2: Click on span
+	- Step 3: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 4: Click on span
+Step 5: Click on button 'TS'
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+14,Verify Addition of Environment in Compute Cloud,Navigate to the home page and login. Access the service workloads section and add an environment. Input the required information and complete the process. Verify the successful addition of the environment.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on span
+Step 5: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 6: Click on button 'Add Environment' -> Navigate to page 'environment/add-environment/*/compute-cloud'
+Step 7: Enter input value in input field
+Step 8: Enter input value in input field
+Step 9: Click on button 'Next' -> Navigate to page 'environment/*/compute-cloud/manage-members/*'
+Step 10: Click on button 'Done' -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 11: Take full page screenshot as checkpoint
+",Trivial
+13,Verify Management of Edge Compute 20 in Service Workloads,Navigate to the home page and login. Access the service workloads section and manage the Edge Compute 20 workload. Perform necessary actions and verify the environment management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on span
+Step 5: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 6: Click on svg
+Step 7: Click on svg
+Step 8: Click on button 'TS'
+Step 9: Take full page screenshot as checkpoint
+",Trivial
+11,Verify Environment Management with Actions,Access the environment management section and perform specified actions. Verify the outcomes of the actions taken in the environment management process.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaa/workload'
+Step 7: Click on span
+Step 8: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 9: Take full page screenshot as checkpoint
+",Trivial
+24,Verify Network Management in Service Workloads with Firewall Rules,Navigate to the home page and login. Access the service workloads section and manage network settings. Add firewall rules and submit the details. Verify the network management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 5: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 6: Click on p
+Step 7: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 8: Add ipv4 rules and submit actions
+	- Step 1: Click on button 'Add IPv4 Rules' -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/firewall/*/*'
+	- Step 2: Click on span
+	- Step 3: Click on div
+	- Step 4: Click on textarea
+	- Step 5: Enter input value in textarea
+	- Step 6: Click on button 'Submit'
+	- Step 7: Click on svg
+	- Step 8: Click on svg
+Step 9: Click on button 'Firewall' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 10: Take full page screenshot as checkpoint
+",Trivial
+10,Verify Environment Addition Process,Access the environment addition section and add an environment. Proceed through the environment addition steps and verify the completion.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'environment/add-environment/*/compute-cloud'
+Step 4: Enter input value in input field
+Step 5: Enter input value in input field
+Step 6: Click on button 'Next' -> Navigate to page 'environment/*/compute-cloud/manage-members/*'
+Step 7: Click on button 'Done' -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 8: Take full page screenshot as checkpoint
+",Trivial
+8,Verify Environment Management in Compute Cloud,"Access the environment management section in the compute cloud. Add and manage environments, and verify the environment management process.","Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0'
+Step 4: Manage environment compute cloud
+	- Step 1: Click on span
+	- Step 2: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 5: Click on span
+Step 6: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 7: Click on button 'Add Environment' -> Navigate to page 'environment/add-environment/*/compute-cloud'
+Step 8: Enter input value in input field
+Step 9: Enter input value in input field
+Step 10: Click on button 'Next' -> Navigate to page 'environment/*/compute-cloud/manage-members/*'
+Step 11: Click on button 'Done' -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 12: Click on button 'TS'
+Step 13: Click on button 'Add Environment' -> Navigate to page 'environment/add-environment/*/compute-cloud'
+Step 14: Click on div
+Step 15: Click on button  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 16: Click on span
+Step 17: Click on button 'Continue'
+Step 18: Click on svg
+Step 19: Click on svg
+Step 20: Click on input field
+Step 21: Enter input value in input field
+Step 22: Click on svg
+Step 23: Click on button  -> Navigate to page 'environment/add-environment/*/compute-cloud'
+Step 24: Click on div
+Step 25: Enter input value in input field
+Step 26: Enter input value in input field
+Step 27: Click on button 'Next' -> Navigate to page 'environment/*/compute-cloud/manage-members/*'
+Step 28: Click on button 'Done' -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 29: Click on button
+Step 30: Click on button 'Continue'
+Step 31: Click on button 'Home' -> Navigate to page 'activity'
+Step 32: Click on button 'Home' -> Navigate to page 'home'
+Step 33: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaaa/workload'
+Step 34: Click on button 'Home' -> Navigate to page 'home'
+Step 35: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaaa/workload'
+Step 36: Click on span
+Step 37: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 38: Click on svg
+Step 39: Click on svg
+Step 40: Enter input value in input field
+Step 41: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/env automation/workload'
+Step 42: Click on span
+Step 43: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 44: Click on button
+Step 45: Click on button 'Continue'
+Step 46: Click on button
+Step 47: Click on button 'Continue'
+Step 48: Click on svg
+Step 49: Click on svg
+Step 50: Enter input value in input field
+Step 51: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/env automation/workload'
+Step 52: Click on div 'cx-edge-manage-workload' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaaa/workload'
+Step 53: Click on span
+Step 54: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 55: Enter input value in input field
+Step 56: Click on button
+Step 57: Click on button
+Step 58: Click on svg
+Step 59: Click on svg
+Step 60: Enter input value in input field
+Step 61: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/env automation/workload'
+Step 62: Click on span
+Step 63: Click on div
+Step 64: Click on span
+Step 65: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 66: Click on button 'Continue'
+Step 67: Click on span
+Step 68: Click on button 'Continue'
+Step 69: Click on button 'Home' -> Navigate to page 'home'
+Step 70: Click on button 'Activity' -> Navigate to page 'activity'
+Step 71: Click on button 'Home' -> Navigate to page 'home'
+Step 72: Click on button 'Edge Compute 2.0'
+Step 73: Manage environment compute cloud
+	- Step 1: Click on span
+	- Step 2: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 74: Take full page screenshot as checkpoint
+",Trivial
+7,Verify Automation Workload Management,Access the automation workload management section. Perform specified actions and verify the workload management functionalities.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 5: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 6: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 7: Click on svg
+Step 8: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 9: Click on button 'VPC 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 10: Click on svg
+Step 11: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 12: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 13: Click on p
+Step 14: Input and click objects
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Cancel'
+	- Step 5: Enter input value in input field
+Step 15: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 16: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 17: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 18: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 19: Click on svg
+Step 20: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 21: Click on button 'VPC 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 22: Click on svg
+Step 23: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 24: Click on button 'VPC 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 25: Click on input field
+Step 26: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 27: Click on button 'VPC Networks' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 28: Enter input value in input field
+Step 29: Click on div
+Step 30: Navigate home, add bare metal server, and input details
+	- Step 1: Click on button 'Home' -> Navigate to page 'home'
+	- Step 2: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+	- Step 3: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+	- Step 4: Click on button 'Add a Server' -> Navigate to page 'services/baremetal-services/testbm/create'
+	- Step 5: Click on button 'add-bm-step0-next'
+	- Step 6: Click on button 'add-bm-step1-next'
+	- Step 7: Click on input field
+	- Step 8: Enter input value in input field
+Step 31: Click on div
+Step 32: Enter input value in input field
+Step 33: Click on button 'add-bm-step2-next'
+Step 34: Click on svg  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 35: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 36: Click on button
+Step 37: Click on div
+Step 38: Click on button 'Home' -> Navigate to page 'home'
+Step 39: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 40: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 41: Click on svg
+Step 42: Click on span
+Step 43: Click on button 'Cancel'
+Step 44: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 45: Take full page screenshot as checkpoint
+",Trivial
+6,Verify Bare Metal Server Creation Process,"Access the bare metal services test server creation section. Create a bare metal server, input necessary details, and verify the server creation.","Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Test bare metal servers creation
+	- Step 1: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+	- Step 2: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+	- Step 3: Click on button 'Add a Server' -> Navigate to page 'services/baremetal-services/testbm/create'
+	- Step 4: Click on button 'add-bm-step0-next'
+	- Step 5: Click on button 'add-bm-step1-next'
+Step 4: Click on input field
+Step 5: Enter input value in input field
+Step 6: Click on div
+Step 7: Enter input value in input field
+Step 8: Click on button 'add-bm-step2-next'
+Step 9: Click on svg  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 10: Click on button 'Home' -> Navigate to page 'home'
+Step 11: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 12: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 13: Click on button 'Add Reserved IP' -> Navigate to page 'add-reserved-ip/compute-cloud/*/automation'
+Step 14: Click on span
+Step 15: Click on div
+Step 16: Click on span
+Step 17: Click on div
+Step 18: Click on input field
+Step 19: Enter input value in input field
+Step 20: Click on button 'Add IP Address'
+Step 21: Click on svg  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 22: Click on td  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/reserved-ip-view/*'
+Step 23: Click on button 'Attach'
+Step 24: Click on svg
+Step 25: Click on svg
+Step 26: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 27: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 28: Click on input field
+Step 29: Enter input value in input field
+Step 30: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 31: Click on button 'Home' -> Navigate to page 'home'
+Step 32: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 33: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 34: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 35: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 36: Click on button 'Home' -> Navigate to page 'home'
+Step 37: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 38: Click on svg
+Step 39: Click on button '×'
+Step 40: Click on svg
+Step 41: Click on button '×'
+Step 42: Click on svg
+Step 43: Click on svg
+Step 44: Click on button '×'
+Step 45: Click objects for navigation
+	- Step 1: Click on svg
+	- Step 2: Click on button '×'
+	- Step 3: Click on button 'Home' -> Navigate to page 'home'
+	- Step 4: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+	- Step 5: Click on div
+Step 46: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 47: Click on button 'Home' -> Navigate to page 'home'
+Step 48: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 49: Take full page screenshot as checkpoint
+",Trivial
+5,Verify Various Page Navigations and Actions,"Navigate through different pages, perform specified actions, and verify the outcomes of the actions taken.","Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 4: Click on svg
+Step 5: Click on button '×'
+Step 6: Click on svg
+Step 7: Click on svg
+Step 8: Click on svg
+Step 9: Click on button '×'
+Step 10: Click on svg
+Step 11: Click on button '×'
+Step 12: Click on div
+Step 13: Click on div
+Step 14: Click on p
+Step 15: Click on div
+Step 16: Click on div 'react-select-3-option-1'
+Step 17: Click on p
+Step 18: Click on button 'Home' -> Navigate to page 'home'
+Step 19: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 20: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 21: Click on div  -> Navigate to page 'services/baremetal-services/sanity/custom servers'
+Step 22: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'
+Step 23: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 24: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 25: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 26: Click on button 'Home' -> Navigate to page 'home'
+Step 27: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 28: Take full page screenshot as checkpoint
+",Trivial
+4,Verify Automation Network Management with VPC,Access the automation network management section with VPC settings. Perform network-related actions and verify the VPC configurations.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 5: Click on button 'VPC 2.0'
+Step 6: Click on svg
+Step 7: Click on div
+Step 8: Click on button 'Firewall'
+Step 9: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 10: Take full page screenshot as checkpoint
+",Trivial
+3,Verify Automation Storage Management from Workload,Access the automation storage management section from the workload management page. Verify the storage management functionalities.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0'
+Step 4: Add and manage compute cloud automation workloads
+	- Step 1: Click on button 'Add Workload' -> Navigate to page 'add-workloads/compute-cloud/*/automation'
+	- Step 2: Click on button 'Next'
+	- Step 3: Click on button 'Next'
+	- Step 4: Click on button 'Submit' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+	- Step 5: Click on p
+Step 5: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+2,Verify Service Management Workload Actions,Navigate to the service management workload section and perform specified actions. Verify the outcomes of the actions taken.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0'
+Step 4: Perform input and span actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on svg
+Step 5: Click on span
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+23,Verify Network Management in Service Workloads with Storage Actions,Navigate to the home page and login. Access the service workloads section and manage network settings. Perform storage actions and verify the network management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/ioss'
+Step 5: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+25,Verify Network Management for Compute Cloud Automation,Navigate to the home page and login. Manage compute cloud environment automation workloads. Manage networks for compute cloud automation and verify the network management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Manage compute cloud environment automation workloads
+	- Step 1: Click on button 'TS'
+	- Step 2: Click on p
+	- Step 3: Click on button 'TS'
+	- Step 4: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/env automation/workload'
+	- Step 5: Click on span
+	- Step 6: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 7: Click on input field
+	- Step 8: Enter input value in input field
+	- Step 9: Click on button
+Step 4: Manage networks for compute cloud automation
+	- Step 1: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 2: Click on button 'VPC 2.0'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on span
+	- Step 6: Click on span
+	- Step 7: Click on p  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*/*'
+	- Step 8: Click on button 'VPC 2.0'
+Step 5: Click on input field
+Step 6: Take full page screenshot as checkpoint
+",Trivial
+47,Manage Storage and Snapshots in Compute Cloud Automation,Navigate to the home page and login. Manage storage and snapshots in the compute cloud automation environment. Verify the storage and snapshot settings for accuracy.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 5: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 6: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 7: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/ioss'
+Step 8: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 9: Click on td  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 10: Click on svg
+Step 11: Click on svg
+Step 12: Click on div
+Step 13: Click on svg
+Step 14: Click on div
+Step 15: Click on div 'rc-tabs-2-tab-settings'
+Step 16: Click on button 'Workload' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 17: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 18: Enter input value in input field
+Step 19: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 20: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 21: Click on p
+Step 22: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 23: Click on div 'rc-tabs-4-tab-settings'
+Step 24: Click on div
+Step 25: Click on div
+Step 26: Click on input field
+Step 27: Enter input value in input field
+Step 28: Click on button 'Add'
+Step 29: Click on div 'rc-tabs-6-tab-overview'
+Step 30: Click on div 'rc-tabs-4-tab-settings'
+Step 31: Click on div
+Step 32: Click on div
+Step 33: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 34: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 35: Take full page screenshot as checkpoint
+",Trivial
+36,Manage Workloads and Networks in Compute Cloud Automation,Navigate to the home page and login. Manage workload and network settings in the compute cloud automation environment. Input required details and verify the settings for networks and workloads.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0'
+Step 4: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 5: Click on div 'rc-tabs-4-tab-settings'
+Step 6: Click on button 'Workload'
+Step 7: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 8: Click on div 'rc-tabs-4-tab-settings'
+Step 9: Click on button 'Workload' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 10: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 11: Click on div 'rc-tabs-2-tab-settings'
+Step 12: Click on button 'Workload' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 13: Click on button 'Home' -> Navigate to page 'home'
+Step 14: Click on button 'Activity' -> Navigate to page 'activity'
+Step 15: Click on button 'Home' -> Navigate to page 'home'
+Step 16: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 17: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 18: Click on div 'rc-tabs-2-tab-settings'
+Step 19: Click on span
+Step 20: Click on div
+Step 21: Click on button 'Upgrade'
+Step 22: Click on button 'Continue'
+Step 23: Click on svg
+Step 24: Click on div
+Step 25: Click on button 'Home'
+Step 26: Click objects for activity
+	- Step 1: Click on button 'Activity' -> Navigate to page 'activity'
+	- Step 2: Click on svg
+	- Step 3: Click on div
+	- Step 4: Click on svg
+	- Step 5: Click on div
+Step 27: Click on button 'Home' -> Navigate to page 'home'
+Step 28: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 29: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 30: Click on div 'rc-tabs-2-tab-settings'
+Step 31: Click on button 'Workload' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 32: Click on td  -> Navigate to page ''
+Step 33: Click on div
+Step 34: Click on button 'Edge Compute 2.0'
+Step 35: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 36: Click on div 'rc-tabs-4-tab-settings'
+Step 37: Click on span
+Step 38: Click on div
+Step 39: Click on span
+Step 40: Click on div
+Step 41: Click on button 'Upgrade'
+Step 42: Click on button 'Continue'
+Step 43: Click on svg
+Step 44: Click on svg
+Step 45: Click on div
+Step 46: Click on div 'rc-tabs-4-tab-settings'
+Step 47: Click on button 'Home' -> Navigate to page 'home'
+Step 48: Click on button 'Activity' -> Navigate to page 'activity'
+Step 49: Click on button 'Home' -> Navigate to page 'home'
+Step 50: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 51: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 52: Click on div 'rc-tabs-2-tab-settings'
+Step 53: Click on button 'Workload'
+Step 54: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 55: Click on svg
+Step 56: Click on div
+Step 57: Click on button 'Edge Compute 2.0'
+Step 58: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 59: Click on svg
+Step 60: Click on div
+Step 61: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 62: Click on button 'Home' -> Navigate to page 'home'
+Step 63: Click on button 'Activity' -> Navigate to page 'activity'
+Step 64: Click on button 'Home' -> Navigate to page 'home'
+Step 65: Click on button 'Edge Compute 2.0'
+Step 66: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 67: Click on svg
+Step 68: Click on div
+Step 69: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 70: Click on td  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 71: Click on svg
+Step 72: Click on div
+Step 73: Click on button 'Edge Compute 2.0'
+Step 74: Click on button 'Edge Compute 2.0'
+Step 75: Click on button 'Home' -> Navigate to page 'home'
+Step 76: Click on button 'Edge Compute 2.0'
+Step 77: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 78: Click on svg
+Step 79: Click on div
+Step 80: Click on button 'Edge Compute 2.0'
+Step 81: Click objects for workload settings
+	- Step 1: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+	- Step 2: Click on div 'rc-tabs-2-tab-settings'
+	- Step 3: Click on div
+	- Step 4: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+	- Step 5: Click on p
+Step 82: Click on input field
+Step 83: Click on td  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/reserved-ip-view/*'
+Step 84: Click on button 'Reserved IPs' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 85: Click on svg
+Step 86: Click on button 'TS'
+Step 87: Take full page screenshot as checkpoint
+",Trivial
+46,Manage Storage and Workloads in Compute Cloud Automation,Navigate to the home page and login. Manage storage and workload settings in the compute cloud automation environment. Add storage and input details. Verify the storage and workload configurations.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0'
+Step 7: Manage environment compute cloud
+	- Step 1: Click on span
+	- Step 2: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 8: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 9: Click on button 'Add Storage' -> Navigate to page 'add-storage/compute-cloud/*/automation'
+Step 10: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 11: Click on svg
+Step 12: Click on span  -> Navigate to page 'service/storage-detail/*/compute-cloud/automation/*'
+Step 13: Click on span
+Step 14: Click on span
+Step 15: Click on div
+Step 16: Click on input field
+Step 17: Click on button 'Cancel'
+Step 18: Click on span
+Step 19: Click on span
+Step 20: Click on div
+Step 21: Click on input field
+Step 22: Click on button 'Cancel'
+Step 23: Click on svg
+Step 24: Click on svg
+Step 25: Click on span
+Step 26: Click on input field
+Step 27: Click on button 'Cancel'
+Step 28: Click on span
+Step 29: Click on input field
+Step 30: Click on button 'Cancel'
+Step 31: Click on svg
+Step 32: Click on svg
+Step 33: Click on svg
+Step 34: Click on button 'Cancel'
+Step 35: Click on svg
+Step 36: Click on button 'Continue'
+Step 37: Perform input, span, and button actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button 'TS'
+Step 38: Take full page screenshot as checkpoint
+",Trivial
+45,Manage Storage in Compute Cloud Automation,Navigate to the home page and login. Manage storage in the compute cloud automation environment. Add storage and input details. Verify the storage settings for accuracy.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0'
+Step 7: Manage environment compute cloud
+	- Step 1: Click on span
+	- Step 2: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 8: Click on p
+Step 9: Click objects in sequence
+	- Step 1: Click on svg
+	- Step 2: Click on span
+	- Step 3: Click on button 'Cancel'
+	- Step 4: Click on svg
+	- Step 5: Click on span
+	- Step 6: Click on button 'Cancel'
+Step 10: Click on svg
+Step 11: Click on svg
+Step 12: Enter input value in input field
+Step 13: Click on span
+Step 14: Click on span
+Step 15: Click on button 'TS'
+Step 16: Take full page screenshot as checkpoint
+",Trivial
+44,Manage Storage in Compute Cloud Automation,Navigate to the home page and login. Manage storage in the compute cloud automation environment. Input required details and verify the storage settings.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0'
+Step 7: Manage environment compute cloud
+	- Step 1: Click on span
+	- Step 2: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 8: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 9: Click on svg
+Step 10: Click on span  -> Navigate to page 'service/storage-detail/*/compute-cloud/automation/*'
+Step 11: Click on svg
+Step 12: Click on input field
+Step 13: Enter input value in input field
+Step 14: Click on button 'Update'
+Step 15: Click on svg
+Step 16: Click on svg
+Step 17: Click on button 'Storage'
+Step 18: Perform input, span, and button actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button 'TS'
+Step 19: Take full page screenshot as checkpoint
+",Trivial
+42,Manage Storage and Networks in Compute Cloud Automation,Navigate to the home page and login. Manage storage and network settings in the compute cloud automation environment. Verify the storage and network configurations.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 5: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 6: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 7: Click on svg
+Step 8: Click on span
+Step 9: Take full page screenshot as checkpoint
+",Trivial
+41,Manage Storage and Snapshots in Compute Cloud Automation,Navigate to the home page and login. Manage storage and snapshots in the compute cloud automation environment. Verify the storage and snapshot settings.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 3: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 4: Click on svg
+Step 5: Click on span  -> Navigate to page 'service/storage-detail/*/compute-cloud/automation/*'
+Step 6: Click on svg
+Step 7: Click on button 'Storage'
+Step 8: Perform input, span, and button actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button 'TS'
+Step 9: Take full page screenshot as checkpoint
+",Trivial
+40,Manage Workloads and Storage in Compute Cloud Automation,Navigate to the home page and login. Manage workload and storage settings in the compute cloud automation environment. Input required details and verify the storage settings.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0'
+Step 4: Perform input and span actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on svg
+Step 5: Click on span
+Step 6: Click on button 'Continue'
+Step 7: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 8: Take full page screenshot as checkpoint
+",Trivial
+39,Verify Storage Settings in Compute Cloud Automation,Navigate to the home page and login. Access the storage settings in the compute cloud automation environment. Verify the storage settings for accuracy.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 5: Click on svg
+Step 6: Click on span
+Step 7: Take full page screenshot as checkpoint
+",Trivial
+37,Manage Compute Cloud Automation Workloads and Networks,Navigate to the home page and login. Manage workload and network settings in the compute cloud automation environment. Add bare metal servers and input details. Verify the managed workloads and networks.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0'
+Step 4: Perform input and span actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on svg
+Step 5: Click on span
+Step 6: Click on button 'Continue'
+Step 7: Perform input and span actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on svg
+Step 8: Click on span
+Step 9: Click on button 'Continue'
+Step 10: Perform input and span actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on svg
+Step 11: Click on span
+Step 12: Click on button 'Continue'
+Step 13: Navigate home, add bare metal server, and input details
+	- Step 1: Click on button 'Home' -> Navigate to page 'home'
+	- Step 2: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+	- Step 3: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+	- Step 4: Click on button 'Add a Server' -> Navigate to page 'services/baremetal-services/testbm/create'
+	- Step 5: Click on button 'add-bm-step0-next'
+	- Step 6: Click on button 'add-bm-step1-next'
+	- Step 7: Click on input field
+	- Step 8: Enter input value in input field
+Step 14: Click on button 'add-bm-step2-next' -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 15: Click on div
+Step 16: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 17: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/ioss'
+Step 18: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 19: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 20: Click on div 'rc-tabs-2-tab-settings'
+Step 21: Click on button 'Workload' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 22: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 23: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 24: Enter input value in input field
+Step 25: Click on button
+Step 26: Click on span
+Step 27: Click on button 'Cancel'
+Step 28: Click on button 'Add Firewall Group'
+Step 29: Click on input field
+Step 30: Enter input value in input field
+Step 31: Click on button 'Submit'
+Step 32: Click on button 'Add Firewall Group'
+Step 33: Click on input field
+Step 34: Enter input value in input field
+Step 35: Click on button 'Submit'
+Step 36: Input and click objects
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Cancel'
+	- Step 5: Enter input value in input field
+Step 37: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 38: Click on button 'Home' -> Navigate to page 'home'
+Step 39: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 40: Click on svg
+Step 41: Click on button '×'
+Step 42: Click on svg
+Step 43: Click on button 'Home' -> Navigate to page 'home'
+Step 44: Click on button 'Edge Compute 2.0'
+Step 45: Add and manage compute cloud automation workloads
+	- Step 1: Click on button 'Add Workload' -> Navigate to page 'add-workloads/compute-cloud/*/automation'
+	- Step 2: Click on button 'Next'
+	- Step 3: Click on button 'Next'
+	- Step 4: Click on button 'Submit' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+	- Step 5: Click on p
+Step 46: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 47: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 48: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 49: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 50: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 51: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 52: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 53: Click on p
+Step 54: Add firewall group and submit input details
+	- Step 1: Click on button 'Add Firewall Group'
+	- Step 2: Click on input field
+	- Step 3: Enter input value in input field
+	- Step 4: Click on button 'Submit'
+	- Step 5: Enter input value in input field
+Step 55: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 56: Click on button 'Home' -> Navigate to page 'home'
+Step 57: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 58: Click on div
+Step 59: Click on svg
+Step 60: Click on button '×'
+Step 61: Click on button 'Home' -> Navigate to page 'home'
+Step 62: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 63: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 64: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 65: Click on p
+Step 66: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 67: Add ipv4 rules and submit actions
+	- Step 1: Click on button 'Add IPv4 Rules' -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/firewall/*/*'
+	- Step 2: Click on span
+	- Step 3: Click on div
+	- Step 4: Click on textarea
+	- Step 5: Enter input value in textarea
+	- Step 6: Click on button 'Submit'
+	- Step 7: Click on svg
+	- Step 8: Click on svg
+Step 68: Click on svg
+Step 69: Click on div
+Step 70: Click on svg
+Step 71: Click on input field
+Step 72: Enter input value in input field
+Step 73: Click on button 'Update'
+Step 74: Click on button 'Firewall' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 75: Click on button 'Add Firewall Group'
+Step 76: Click and input objects, then submit
+	- Step 1: Click on span
+	- Step 2: Click on div
+	- Step 3: Click on span
+	- Step 4: Click on div
+	- Step 5: Click on input field
+	- Step 6: Enter input value in input field
+	- Step 7: Click on button 'Submit'
+	- Step 8: Click on svg
+Step 77: Click on button 'Add Firewall Group'
+Step 78: Click on input field
+Step 79: Enter input value in input field
+Step 80: Click on button 'Submit'
+Step 81: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 82: Click on button 'Firewall'
+Step 83: Add firewall group and submit input details
+	- Step 1: Click on button 'Add Firewall Group'
+	- Step 2: Click on input field
+	- Step 3: Enter input value in input field
+	- Step 4: Click on button 'Submit'
+	- Step 5: Enter input value in input field
+Step 84: Click on button
+Step 85: Click on span
+Step 86: Click on button 'Cancel'
+Step 87: Click on svg
+Step 88: Click on button 'Home' -> Navigate to page 'home'
+Step 89: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services/automation/undefined'
+Step 90: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 91: Click on svg  -> Navigate to page 'environment/edit-environment/bare-metal/baremetal-services/sanity'
+Step 92: Click on button  -> Navigate to page 'services/baremetal-services'
+Step 93: Click on span  -> Navigate to page 'environment/bare-metal/baremetal-services/manage-members/*'
+Step 94: Click on button  -> Navigate to page 'services/baremetal-services'
+Step 95: Click on button 'Home' -> Navigate to page 'home'
+Step 96: Click on button 'Edge Compute 2.0'
+Step 97: Input and click objects for network management
+	- Step 1: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 2: Enter input value in input field
+	- Step 3: Click on button
+	- Step 4: Click on span
+	- Step 5: Click on button 'Cancel'
+Step 98: Take full page screenshot as checkpoint
+",Trivial
+35,Verify Available Releases from Organization s Team Project,Navigate to the home page and login. Access the organization's team project and view the available releases. Verify the displayed releases for accuracy.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 4: Click on span
+Step 5: Perform input and span actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on svg
+Step 6: Click on span  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 7: Click on div 'rc-tabs-4-tab-settings'
+Step 8: Click on testim
+Step 9: Click on button 'Workload'
+Step 10: Perform input and span actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on svg
+Step 11: Click on span  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 12: Click on div 'rc-tabs-2-tab-settings'
+Step 13: Click on button 'Enable VPC 2.0'
+Step 14: Click on button 'Continue'
+Step 15: Click on button 'Enable VPC'
+Step 16: Click on button 'Continue'
+Step 17: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 18: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 19: Click on input field
+Step 20: Enter input value in input field
+Step 21: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 22: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 23: Click on div 'rc-tabs-2-tab-settings'
+Step 24: Click on button 'Workload' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 25: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 26: Click on div 'rc-tabs-2-tab-settings'
+Step 27: Click on button 'Home' -> Navigate to page 'home'
+Step 28: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 29: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 30: Click on input field
+Step 31: Click on svg
+Step 32: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 33: Click on button 'Home' -> Navigate to page 'home'
+Step 34: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 35: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+Step 36: Click on div
+Step 37: Click on button 'Workload'
+Step 38: Enable VPC and manage workload compute cloud automation
+	- Step 1: Click on button  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/*'
+	- Step 2: Click on div 'rc-tabs-2-tab-settings'
+	- Step 3: Click on button 'Enable VPC 2.0'
+	- Step 4: Click on button 'Continue'
+	- Step 5: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+	- Step 6: Click on p
+Step 39: Click on input field
+Step 40: Enter input value in input field
+Step 41: Click on button
+Step 42: Take full page screenshot as checkpoint
+",Trivial
+26,Verify Network Management in Test Automation Workloads,Navigate to the home page and login. Access the test automation workloads section and manage network settings. Click on objects and verify the network management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/test automation/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/test automation/networks'
+Step 5: Click on button 'VPC 2.0'
+Step 6: Click on button 'Add VPC 2.0'
+Step 7: Click on div
+Step 8: Click on div
+Step 9: Perform input, button, span actions
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Continue'
+	- Step 5: Click on button 'Home'
+Step 10: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 11: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 12: Click on svg
+Step 13: Take full page screenshot as checkpoint
+",Trivial
+34,Verify Checkout Process Completion,Navigate to the home page and login. Proceed to add items to the shopping cart by selecting and inputting required information. Complete the checkout process and verify the successful completion.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 4: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'
+Step 5: Click on button
+Step 6: Click on span
+Step 7: Click on button 'Continue'
+Step 8: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'
+Step 9: Click on button 'Home' -> Navigate to page 'home'
+Step 10: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 11: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 12: Click on svg
+Step 13: Click on input field
+Step 14: Click on svg
+Step 15: Click on button 'Add VPC 2.0' -> Navigate to page 'add-vpc-network/compute-cloud/*/automation'
+Step 16: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 17: Click on button 'Add Firewall Group'
+Step 18: Click objects in sequence
+	- Step 1: Click on span
+	- Step 2: Click on div
+	- Step 3: Click on span
+	- Step 4: Click on div
+	- Step 5: Click on div
+Step 19: Click on input field
+Step 20: Enter input value in input field
+Step 21: Click on input field
+Step 22: Enter input value in input field
+Step 23: Click on button 'Submit' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 24: Click on button 'Add Firewall Group'
+Step 25: Click objects in sequence
+	- Step 1: Click on span
+	- Step 2: Click on div
+	- Step 3: Click on span
+	- Step 4: Click on div
+	- Step 5: Click on div
+Step 26: Click on div
+Step 27: Click on div
+Step 28: Click on input field
+Step 29: Enter input value in input field
+Step 30: Click on html
+Step 31: Click on button 'VPC Networks' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 32: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/ioss'
+Step 33: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 34: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 35: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 36: Take full page screenshot as checkpoint
+",Trivial
+33,Verify Network Management in Compute Cloud Environment with Ts Button and VPC Networks,Navigate to the home page and login. Manage compute cloud environment automation workloads. Access the VPC networks section for network management. Perform various actions and verify the network management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0'
+Step 7: Manage environment compute cloud
+	- Step 1: Click on span
+	- Step 2: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 8: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 9: Click on button 'Add VPC 2.0'
+Step 10: Click on input field
+Step 11: Enter input value in input field
+Step 12: Click on button 'Submit'
+Step 13: Click on input field
+Step 14: Click on button 'Add Firewall Group'
+Step 15: Click on input field
+Step 16: Enter input value in input field
+Step 17: Click on button 'Submit'
+Step 18: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 19: Click objects for network management
+	- Step 1: Click on button 'Firewall' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 2: Click on input field
+	- Step 3: Enter input value in input field
+	- Step 4: Click on button
+	- Step 5: Click on span
+Step 20: Click on button 'Firewall' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 21: Click on input field
+Step 22: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 23: Click on button 'Firewall' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 24: Click on input field
+Step 25: Input and click objects
+	- Step 1: Enter input value in input field
+	- Step 2: Click on button
+	- Step 3: Click on span
+	- Step 4: Click on button 'Cancel'
+	- Step 5: Enter input value in input field
+Step 26: Click on button
+Step 27: Click on span
+Step 28: Click on button 'Continue'
+Step 29: Click on svg
+Step 30: Click on svg
+Step 31: Click on button 'TS'
+Step 32: Take full page screenshot as checkpoint
+",Trivial
+32,Verify Network Management in Compute Cloud Environment with Firewall Group,Navigate to the home page and login. Manage compute cloud environment automation workloads. Access the firewall group section for network management. Input and submit the required information. Verify the network management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaadd/workload'
+Step 7: Click on span
+Step 8: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+Step 9: Click on input field
+Step 10: Enter input value in input field
+Step 11: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 12: Click on p
+Step 13: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 14: Click on button 'VPC Networks' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 15: Click on input field
+Step 16: Enter input value in input field
+Step 17: Click on div
+Step 18: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 19: Click on div 'rc-tabs-4-tab-settings'
+Step 20: Click on svg
+Step 21: Click on span
+Step 22: Click on svg
+Step 23: Click on span
+Step 24: Click on button 'Continue'
+Step 25: Click on svg
+Step 26: Click on svg
+Step 27: Click on button 'Workload'
+Step 28: Input and click objects for network management
+	- Step 1: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 2: Enter input value in input field
+	- Step 3: Click on button
+	- Step 4: Click on span  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/vpc-details-view/*'
+	- Step 5: Click on svg
+	- Step 6: Click on button 'Cancel'
+	- Step 7: Click on svg
+	- Step 8: Click on button 'Continue' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 9: Click on svg
+	- Step 10: Click on svg
+	- Step 11: Click on button 'TS'
+Step 29: Take full page screenshot as checkpoint
+",Trivial
+31,Verify Network Management in Compute Cloud Environment with VPC Networks,Navigate to the home page and login. Manage compute cloud environment automation workloads. Access the VPC networks section for network management. Input and verify the network management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Manage compute cloud environment automation workloads
+	- Step 1: Click on button 'TS'
+	- Step 2: Click on p
+	- Step 3: Click on button 'TS'
+	- Step 4: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/env automation/workload'
+	- Step 5: Click on span
+	- Step 6: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 7: Click on input field
+	- Step 8: Enter input value in input field
+	- Step 9: Click on button
+Step 4: Click on p
+Step 5: Perform input, span, and p actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on p
+Step 6: Click on button 'VPC Networks' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 7: Click on input field
+Step 8: Enter input value in input field
+Step 9: Click on div
+Step 10: Input and click objects
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on span
+	- Step 4: Click on span
+	- Step 5: Click on button
+Step 11: Click on div 'rc-tabs-4-tab-settings'
+Step 12: Click on button 'Edge Compute 2.0'
+Step 13: Input and click objects for network management
+	- Step 1: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 2: Enter input value in input field
+	- Step 3: Click on button
+	- Step 4: Click on span  -> Navigate to page 'service/workload-detail/*/compute-cloud/automation/vpc-details-view/*'
+	- Step 5: Click on svg
+	- Step 6: Click on button 'Cancel'
+	- Step 7: Click on svg
+	- Step 8: Click on button 'Continue' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 9: Click on svg
+	- Step 10: Click on svg
+	- Step 11: Click on button 'TS'
+Step 14: Take full page screenshot as checkpoint
+",Trivial
+30,Verify Network Management in Compute Cloud Environment with Workload Details,Navigate to the home page and login. Manage compute cloud environment automation workloads. Access the workload details section for network management. Input and click on objects to manage the network successfully.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Activity' -> Navigate to page 'activity'
+Step 4: Click on button 'Home' -> Navigate to page 'home'
+Step 5: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 6: Click on button 'Home'
+Step 7: Click objects for activity
+	- Step 1: Click on button 'Activity' -> Navigate to page 'activity'
+	- Step 2: Click on svg
+	- Step 3: Click on div
+	- Step 4: Click on svg
+	- Step 5: Click on div
+Step 8: Click on svg
+Step 9: Click on div
+Step 10: Click on svg
+Step 11: Click on div
+Step 12: Click on svg  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 13: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 14: Click on input field
+Step 15: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 16: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 17: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 18: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 19: Click on svg
+Step 20: Click on input field
+Step 21: Click on svg
+Step 22: Click on button 'TS'
+Step 23: Take full page screenshot as checkpoint
+",Trivial
+29,Verify Network Management in Compute Cloud Environment with VPC Details,Navigate to the home page and login. Access the VPC details section for network management. Input the required information and verify the network management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/storage'
+Step 3: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/workload'
+Step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/networks'
+Step 5: Click on button 'Add VPC 2.0' -> Navigate to page '*/compute-cloud/*/cm-env'
+Step 6: Click on button 'VPC 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/networks'
+Step 7: Click on button 'Add VPC 2.0' -> Navigate to page '*/compute-cloud/*/cm-env'
+Step 8: Click on div
+Step 9: Click on span
+Step 10: Click on span
+Step 11: Click on div
+Step 12: Click on div
+Step 13: Click on svg
+Step 14: Click on div
+Step 15: Click on button 'VPC 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/networks'
+Step 16: Click on span
+Step 17: Enter input value in input field
+Step 18: Click on button 'Testing Standard User' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 19: Click on button 'Add VPC 2.0'
+Step 20: Click and input objects, then submit
+	- Step 1: Click on span
+	- Step 2: Click on div
+	- Step 3: Click on span
+	- Step 4: Click on div
+	- Step 5: Click on input field
+	- Step 6: Enter input value in input field
+	- Step 7: Click on button 'Submit'
+	- Step 8: Click on svg
+Step 21: Enter input value in input field
+Step 22: Click on button
+Step 23: Click on span
+Step 24: Click on button 'Add VPC 2.0'
+Step 25: Click and input objects, then submit
+	- Step 1: Click on span
+	- Step 2: Click on div
+	- Step 3: Click on span
+	- Step 4: Click on div
+	- Step 5: Click on input field
+	- Step 6: Enter input value in input field
+	- Step 7: Click on button 'Submit'
+	- Step 8: Click on svg
+Step 26: Click on input field
+Step 27: Click on svg
+Step 28: Click on button 'TS'
+Step 29: Take full page screenshot as checkpoint
+",Trivial
+28,Verify Network Management in Compute Cloud Environment with Activity Actions,Navigate to the home page and login. Manage compute cloud environment automation workloads. Perform activity actions for network management. Click on objects and verify the network management is successful.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'TS'
+Step 4: Click on p
+Step 5: Click on button 'TS'
+Step 6: Click on button 'Edge Compute 2.0'
+Step 7: Manage environment compute cloud
+	- Step 1: Click on span
+	- Step 2: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'
+	- Step 3: Click on input field
+	- Step 4: Enter input value in input field
+	- Step 5: Click on button
+Step 8: Click on p
+Step 9: Perform input and div actions
+	- Step 1: Click on input field
+	- Step 2: Enter input value in input field
+	- Step 3: Click on div
+	- Step 4: Click on div
+	- Step 5: Click on p
+Step 10: Click objects for network management
+	- Step 1: Click on button 'Firewall' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+	- Step 2: Click on input field
+	- Step 3: Enter input value in input field
+	- Step 4: Click on button
+	- Step 5: Click on span
+Step 11: Click on svg
+Step 12: Click on button 'Cancel'
+Step 13: Click on svg
+Step 14: Click on button 'Cancel'
+Step 15: Click on svg
+Step 16: Click on button 'Cancel'
+Step 17: Click on svg
+Step 18: Click on button 'Cancel'
+Step 19: Click on svg
+Step 20: Click on button 'Cancel'
+Step 21: Click on svg
+Step 22: Click on button 'Continue' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 23: Click on svg
+Step 24: Click on button 'TS'
+Step 25: Take full page screenshot as checkpoint
+",Trivial
+27,Verify Network Management in Compute Cloud Environment with Input and Span Actions,"Navigate to the home page and login. Manage compute cloud environment automation workloads. Perform input, button, and span actions for network management. Verify the network management is successful.","Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on svg
+Step 4: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/workload'
+Step 5: Click on button 'TK'
+Step 6: Click on input field
+Step 7: Click on svg  -> Navigate to page 'home'
+Step 8: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'
+Step 9: Click on span
+Step 10: Click on button 'Continue'
+Step 11: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'
+Step 12: Click on svg
+Step 13: Click on svg
+Step 14: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'
+Step 15: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'
+Step 16: Enter input value in input field
+Step 17: Click on button
+Step 18: Click on span
+Step 19: Click on button 'Continue'
+Step 20: Take full page screenshot as checkpoint
+",Trivial
+97,Verify Dashboard Page Closure,Navigate to the home page and login. Access the dashboard page and close it. Verify the closure of the dashboard page.,"Step 1: Navigate to https://cox-ui.uat.cloudmc.io/
+Step 2: Login
+Step 3: Click on button 'Dashboard' -> Navigate to page 'dashboard'
+Step 4: Click on svg
+Step 5: Click on svg
+Step 6: Click on button '×'
+Step 7: Take full page screenshot as checkpoint
+",Trivial

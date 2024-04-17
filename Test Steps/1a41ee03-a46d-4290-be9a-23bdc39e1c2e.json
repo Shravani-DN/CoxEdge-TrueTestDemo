@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'environment/add-environment/*/compute-cloud'",
+        "step 4: Enter input value in input field",
+        "step 5: Enter input value in input field",
+        "step 6: Click on button 'Next' -> Navigate to page 'environment/*/compute-cloud/manage-members/*'",
+        "step 7: Click on button 'Done' -> Navigate to page 'environment/*/manage-environment/compute-cloud'",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Click on button 'TS'",
+        "step 4: Click on p",
+        "step 5: Click on button 'TS'",
+        "step 6: Click on button 'Edge Compute 2.0'",
+        "step 7: Manage environment compute cloud",
+        "step 8: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'",
+        "step 9: Click on svg",
+        "step 10: Click on span  -> Navigate to page 'service/storage-detail/*/compute-cloud/automation/*'",
+        "step 11: Click on svg",
+        "step 12: Click on input field",
+        "step 13: Enter input value in input field",
+        "step 14: Click on button 'Update'",
+        "step 15: Click on svg",
+        "step 16: Click on svg",
+        "step 17: Click on button 'Storage'",
+        "step 18: Perform input, span, and button actions",
+        "step 19: Take full page screenshot as checkpoint"
+    ]
+}

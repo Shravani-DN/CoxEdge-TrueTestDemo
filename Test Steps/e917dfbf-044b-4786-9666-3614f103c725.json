@@ -1,9 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page home --> navigate to Page login",
-        "step 2: Login at Page login --> navigate to Page home",
-        "step 3: Navigate to Page home --> navigate to Page services baremetal-server-settings",
-        "step 4: At Page services baremetal-server-settings click on div rc tabs 0 tab server details --> navigate to Page services baremetal-server-details",
-        "step 5: Add visual checkpoint at Page services baremetal-server-details"
-    ]
-}

@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Click on button 'TS'",
+        "step 4: Click on span  -> Navigate to page 'profile/accountInformation'",
+        "step 5: Click on button 'Home' -> Navigate to page 'home'",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

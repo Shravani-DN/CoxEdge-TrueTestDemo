@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Click on button 'Dashboard' -> Navigate to page 'dashboard'",
+        "step 4: Click on svg",
+        "step 5: Click on svg",
+        "step 6: Click on button '\u00d7'",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}

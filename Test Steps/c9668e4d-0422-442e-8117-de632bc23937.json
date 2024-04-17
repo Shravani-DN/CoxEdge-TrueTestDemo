@@ -1,0 +1,30 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'",
+        "step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'",
+        "step 5: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'",
+        "step 6: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'",
+        "step 7: Enter input value in input field",
+        "step 8: Click on div",
+        "step 9: Input and click objects",
+        "step 10: Click on div 'rc-tabs-4-tab-settings'",
+        "step 11: Click on button 'Enable VPC'",
+        "step 12: Click on button 'Continue'",
+        "step 13: Click on button 'Enable VPC 2.0'",
+        "step 14: Click on button 'Continue'",
+        "step 15: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'",
+        "step 16: Click on button 'Home' -> Navigate to page 'home'",
+        "step 17: Click on button 'Dashboard' -> Navigate to page 'dashboard'",
+        "step 18: Click on button 'Home' -> Navigate to page 'home'",
+        "step 19: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'",
+        "step 20: Click on button 'Home'",
+        "step 21: Click buttons and input objects for server creation",
+        "step 22: Click on button 'Dashboard' -> Navigate to page 'dashboard'",
+        "step 23: Click on svg",
+        "step 24: Click on button '\u00d7'",
+        "step 25: Click on button 'Home' -> Navigate to page 'home'",
+        "step 26: Take full page screenshot as checkpoint"
+    ]
+}

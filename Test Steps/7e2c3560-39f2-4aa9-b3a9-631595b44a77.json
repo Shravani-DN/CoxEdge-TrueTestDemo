@@ -1,0 +1,27 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Click on button 'Activity' -> Navigate to page 'activity'",
+        "step 4: Click on button 'Home' -> Navigate to page 'home'",
+        "step 5: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'",
+        "step 6: Click on button 'Home'",
+        "step 7: Click objects for activity",
+        "step 8: Click on svg",
+        "step 9: Click on div",
+        "step 10: Click on svg",
+        "step 11: Click on div",
+        "step 12: Click on svg  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'",
+        "step 13: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'",
+        "step 14: Click on input field",
+        "step 15: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'",
+        "step 16: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'",
+        "step 17: Click on div  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/snapshots'",
+        "step 18: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'",
+        "step 19: Click on svg",
+        "step 20: Click on input field",
+        "step 21: Click on svg",
+        "step 22: Click on button 'TS'",
+        "step 23: Take full page screenshot as checkpoint"
+    ]
+}

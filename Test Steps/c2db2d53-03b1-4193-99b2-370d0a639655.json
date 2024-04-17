@@ -1,0 +1,20 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Click on button 'TS'",
+        "step 4: Click on p",
+        "step 5: Click on button 'TS'",
+        "step 6: Click on button 'Edge Compute 2.0'",
+        "step 7: Manage environment compute cloud",
+        "step 8: Click on button 'Add Workload' -> Navigate to page 'add-workloads/compute-cloud/*/automation'",
+        "step 9: Click on span",
+        "step 10: Click on div",
+        "step 11: Click on span",
+        "step 12: Click on div",
+        "step 13: Click on button 'Snapshots'",
+        "step 14: Click on button '9dbc2743-2f1d-483b-8459-75e2921c26d5testing snapshot creation2024-04-03T03:58:36+00:00'",
+        "step 15: Click on button 'Next'",
+        "step 16: Take full page screenshot as checkpoint"
+    ]
+}

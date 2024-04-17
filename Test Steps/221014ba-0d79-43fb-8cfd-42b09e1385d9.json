@@ -1,0 +1,33 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/storage'",
+        "step 3: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/workload'",
+        "step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/networks'",
+        "step 5: Click on button 'Add VPC 2.0' -> Navigate to page '*/compute-cloud/*/cm-env'",
+        "step 6: Click on button 'VPC 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/networks'",
+        "step 7: Click on button 'Add VPC 2.0' -> Navigate to page '*/compute-cloud/*/cm-env'",
+        "step 8: Click on div",
+        "step 9: Click on span",
+        "step 10: Click on span",
+        "step 11: Click on div",
+        "step 12: Click on div",
+        "step 13: Click on svg",
+        "step 14: Click on div",
+        "step 15: Click on button 'VPC 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/cm-env/networks'",
+        "step 16: Click on span",
+        "step 17: Enter input value in input field",
+        "step 18: Click on button 'Testing Standard User' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'",
+        "step 19: Click on button 'Add VPC 2.0'",
+        "step 20: Click and input objects, then submit",
+        "step 21: Enter input value in input field",
+        "step 22: Click on button",
+        "step 23: Click on span",
+        "step 24: Click on button 'Add VPC 2.0'",
+        "step 25: Click and input objects, then submit",
+        "step 26: Click on input field",
+        "step 27: Click on svg",
+        "step 28: Click on button 'TS'",
+        "step 29: Take full page screenshot as checkpoint"
+    ]
+}

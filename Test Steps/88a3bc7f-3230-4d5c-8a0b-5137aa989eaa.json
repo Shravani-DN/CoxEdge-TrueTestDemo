@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page home --> navigate to Page login",
-        "step 2: Login at Page login --> navigate to Page home",
-        "step 3: Navigate to Page home --> navigate to Page service manage-workloads edge-compute stackpa",
-        "step 4: Add visual checkpoint at Page service manage-workloads edge-compute stackpa"
-    ]
-}

@@ -1,0 +1,32 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Click on button 'Dashboard' -> Navigate to page 'dashboard'",
+        "step 4: Click on svg",
+        "step 5: Click on button '\u00d7'",
+        "step 6: Click on svg",
+        "step 7: Click on svg",
+        "step 8: Click on svg",
+        "step 9: Click on button '\u00d7'",
+        "step 10: Click on svg",
+        "step 11: Click on button '\u00d7'",
+        "step 12: Click on div",
+        "step 13: Click on div",
+        "step 14: Click on p",
+        "step 15: Click on div",
+        "step 16: Click on div 'react-select-3-option-1'",
+        "step 17: Click on p",
+        "step 18: Click on button 'Home' -> Navigate to page 'home'",
+        "step 19: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'",
+        "step 20: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'",
+        "step 21: Click on div  -> Navigate to page 'services/baremetal-services/sanity/custom servers'",
+        "step 22: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'",
+        "step 23: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'",
+        "step 24: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'",
+        "step 25: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'",
+        "step 26: Click on button 'Home' -> Navigate to page 'home'",
+        "step 27: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'",
+        "step 28: Take full page screenshot as checkpoint"
+    ]
+}

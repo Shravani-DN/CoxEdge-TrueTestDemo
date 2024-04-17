@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Manage compute cloud environment automation workloads",
+        "step 4: Click on p  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'",
+        "step 5: Click on button 'Add Storage' -> Navigate to page 'add-storage/compute-cloud/*/automation'",
+        "step 6: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/storage'",
+        "step 7: Enter input value in input field",
+        "step 8: Click on span",
+        "step 9: Click on span",
+        "step 10: Click on button 'TS'",
+        "step 11: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Click on button 'TS'",
+        "step 4: Click on p",
+        "step 5: Click on button 'TS'",
+        "step 6: Click on button 'Edge Compute 2.0' -> Navigate to page 'service/manage-workloads/*/compute-cloud/aaadd/workload'",
+        "step 7: Click on span",
+        "step 8: Click on div  -> Navigate to page 'environment/*/manage-environment/compute-cloud'",
+        "step 9: Click on input field",
+        "step 10: Enter input value in input field",
+        "step 11: Click on button  -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/workload'",
+        "step 12: Click on p",
+        "step 13: Perform input, span, and p actions",
+        "step 14: Click on button 'VPC Networks' -> Navigate to page 'service/manage-workloads/*/compute-cloud/automation/networks'",
+        "step 15: Click on input field",
+        "step 16: Enter input value in input field",
+        "step 17: Click on div",
+        "step 18: Input and click objects",
+        "step 19: Click on div 'rc-tabs-4-tab-settings'",
+        "step 20: Click on svg",
+        "step 21: Click on span",
+        "step 22: Click on svg",
+        "step 23: Click on span",
+        "step 24: Click on button 'Continue'",
+        "step 25: Click on svg",
+        "step 26: Click on svg",
+        "step 27: Click on button 'Workload'",
+        "step 28: Input and click objects for network management",
+        "step 29: Take full page screenshot as checkpoint"
+    ]
+}

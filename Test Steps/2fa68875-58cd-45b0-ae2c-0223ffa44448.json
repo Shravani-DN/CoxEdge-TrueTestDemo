@@ -1,0 +1,21 @@
+{
+    "steps": [
+        "step 1: Navigate to https://cox-ui.uat.cloudmc.io/",
+        "step 2: Login",
+        "step 3: Click on button 'Bare Metal' -> Navigate to page 'services/baremetal-services'",
+        "step 4: Click on div  -> Navigate to page 'services/baremetal-services/sanity/servers'",
+        "step 5: Click on span",
+        "step 6: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'",
+        "step 7: Click on button 'Add a Server' -> Navigate to page 'services/baremetal-services/testbm/create'",
+        "step 8: Click on button  -> Navigate to page 'services/baremetal-services/testbm/servers'",
+        "step 9: Click on button 'Add a Server' -> Navigate to page 'services/baremetal-services/testbm/create'",
+        "step 10: Click on button  -> Navigate to page 'services/baremetal-services/testbm/servers'",
+        "step 11: Click on div  -> Navigate to page 'services/baremetal-services/testbm/custom servers'",
+        "step 12: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'",
+        "step 13: Click on div  -> Navigate to page 'services/baremetal-services/testbm/custom servers'",
+        "step 14: Click on div  -> Navigate to page 'services/baremetal-services/testbm/ssh list'",
+        "step 15: Click on div  -> Navigate to page 'services/baremetal-services/testbm/custom servers'",
+        "step 16: Click on div  -> Navigate to page 'services/baremetal-services/testbm/servers'",
+        "step 17: Take full page screenshot as checkpoint"
+    ]
+}
